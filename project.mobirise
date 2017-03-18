@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "News.html",
+    "currentPage": "index.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 82,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "true"
@@ -175,6 +175,39 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/doane-college-crete-nelarge-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Doane University &nbsp;will host Lincoln United",
+                "showText": true,
+                "text": "Doane University has been selected as the <br>host for Lincoln United's inagural season.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#939393",
+            "showBullets": true
+          },
+          "_anchor": "slider3-29",
+          "articleLayout": false
+        },
+        {
           "_inherit": "features4",
           "_tags": [
             "Theme"
@@ -197,7 +230,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a4a4a4",
+            "bgColor": "#939393",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2409,10 +2442,10 @@
           "_anchor": "content1-26",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#939393"
           },
-          "text": "<h2>Doane University Chosen as the Host Location for the 2017 Season</h2><p><br></p><p>Lincoln United is pleased to annouce that Doane University will be the official host site for their 2017 campaign.&nbsp;</p>"
+          "text": "<h2>Doane University Chosen as the Host Location for the 2017 Season</h2><p><br></p><p>Lincoln United is pleased to announce that Doane University will be the official host site for their 2017 campaign. Doane’s campus is located just 20 miles south of the state capital, and boosts some of the best facilities in the state. The head coach of Lincoln United, Chris Lawson, had the following to say about the arrangement: “We are thrilled to have gained access to Doane’s facilities for our inaugural season. We are trying to build something special here in Nebraska, that will provide the high-level players we currently have here a chance to continue their development, and gaining access to state-of-the-art facilities is a huge step in achieving that.”&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2422,7 +2455,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 4,
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Animated",
@@ -2516,6 +2549,19 @@
           "_anchor": "gallery2-25",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#939393"
+          },
+          "text": "<p>“After going through all of our options, we choose Doane as a host site not only because of level of facilities they have, but also because they really got behind the idea as an organization. There’s obviously a ton of work that goes into a contract like this, but they’ve been fantastic to work with and have really made it an easier process for us,’ said Lawson ‘By going this route, it has freed up some extra time and resources that we have been able to pump into other aspects of the club.” While nothing is official yet, it looks like gym-access, housing/food opportunities, player tracking technology and live-streaming are among the list of other aspects that are in the works for the upcoming season.&nbsp;</p>"
         },
         {
           "_styles": {
