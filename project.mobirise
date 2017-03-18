@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017hostsite.html",
+    "currentPage": "index.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -193,7 +193,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Doane University &nbsp;will host Lincoln United",
+                "title": "Host Site Selected",
                 "showText": true,
                 "text": "Doane University has been selected as the <br>host for Lincoln United's inagural season.",
                 "showButtons": true,
