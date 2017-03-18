@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Resources.html",
+    "currentPage": "staff.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "true"
@@ -1395,24 +1395,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#939393"
-          },
-          "text": "<p><a href=\"#\"><img src=\"@PROJECT_PATH@/assets/images/00001-copy.jpg\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: left; width: 20%;padding:5px;\"></a><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Chris</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><a href=\"#\"><img src=\"@PROJECT_PATH@/assets/images/00001.jpg\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: left; width: 20%;padding:5px;\"></a>&nbsp;Erik</p>",
-          "_styles": {
-            "P": {
-              "color": "#919191"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "content7",
           "_anchor": "content7-1b",
           "_params": {
@@ -2264,7 +2246,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00001-copy3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00001-copy.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2296,7 +2278,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00001-copy3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00001-copy.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
