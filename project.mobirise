@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Resources.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,10 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -114,7 +114,7 @@
           },
           "logo": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -134,17 +134,28 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#c0a375"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -161,18 +172,7 @@
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><br>",
           "text": "<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "15px"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#c0a375"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
         },
         {
           "_inherit": "features4",
@@ -336,6 +336,14 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -349,15 +357,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright  © Lincoln United 2017.</b>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            },
-            "B": {
-              "color": "#232323"
-            }
-          }
+          "text": "<b>Copyright  © Lincoln United 2017.</b>"
         }
       ]
     },
@@ -458,6 +458,14 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
@@ -471,15 +479,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright  © Lincoln United 2017.</b>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            },
-            "B": {
-              "color": "#232323"
-            }
-          }
+          "text": "<b>Copyright  © Lincoln United 2017.</b>"
         },
         {
           "_inherit": "menu",
@@ -577,7 +577,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -609,7 +609,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -708,6 +708,14 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-h",
           "_params": {
             "paddingTop": 2,
@@ -721,15 +729,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright  © Lincoln United 2017.</b>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            },
-            "B": {
-              "color": "#232323"
-            }
-          }
+          "text": "<b>Copyright  © Lincoln United 2017.</b>"
         },
         {
           "_inherit": "menu",
@@ -827,7 +827,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -859,7 +859,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1077,7 +1077,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1109,7 +1109,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1124,8 +1124,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Women's Team Coming 2018...</span><br>",
-          "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Women's Team Coming 2018...</span><br>",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
         },
         {
@@ -1145,7 +1145,7 @@
             "bgColor": "#939393",
             "showMeta": true
           },
-          "title": "2017 Squad",
+          "title": "2018 Squad",
           "meta": ""
         },
         {
@@ -1327,7 +1327,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1359,7 +1359,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1374,29 +1374,9 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Coaching Staff will be Released Soon...&nbsp;</span><br>",
-          "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Coaching Staff&nbsp;</span><br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#939393",
-            "showMeta": true
-          },
-          "title": "Coaching Staff",
-          "meta": ""
         },
         {
           "_tags": [
@@ -1405,11 +1385,29 @@
           "_name": "content2",
           "_anchor": "content2-1a",
           "_params": {
-            "paddingTop": "7",
+            "paddingTop": "0",
             "paddingBottom": "7",
             "bgColor": "#939393"
           },
           "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#939393"
+          },
+          "text": "<p><a href=\"#\"><img src=\"@PROJECT_PATH@/assets/images/00001-copy.jpg\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: left; width: 20%;padding:5px;\"></a><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Chris</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><a href=\"#\"><img src=\"@PROJECT_PATH@/assets/images/00001.jpg\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: left; width: 20%;padding:5px;\"></a>&nbsp;Erik</p>",
+          "_styles": {
+            "P": {
+              "color": "#919191"
+            }
+          }
         },
         {
           "_tags": [
@@ -1577,7 +1575,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1609,7 +1607,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1624,8 +1622,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">2017 Open Trial Schedule</span><br>",
-          "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">2017 Open Trial Schedule</span><br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
         },
         {
@@ -1647,7 +1645,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1f",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -1707,7 +1705,7 @@
             "showButton": true
           },
           "title": "April 29th-30th",
-          "text": "<div><br></div><ul><li>April 29th 11:00am - 1:00pm --- Trial Period for Group One&nbsp;</li><li>April 29th &nbsp; 1:00pm - 3:00pm --- Trial Period for Group Two&nbsp;</li><li>April 30th 12:00pm - 2:00pm --- Callback Trial</li></ul>",
+          "text": "<div><br></div><ul><li>April 29th 11:00am - &nbsp;1:00pm --- Trial Period for Group One&nbsp;</li><li>April 29th &nbsp; 1:00pm - 3:00pm --- Trial Period for Group Two&nbsp;</li><li>April 30th 12:00pm - 2:00pm --- Callback Trial</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://goo.gl/forms/IcZntvU1QzO0tnho1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a>"
         },
         {
@@ -1861,7 +1859,497 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "News.html": {
+      "settings": {
+        "title": "News Archive",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-section-lead": {
+              "color": "#c0a375",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#c0a375"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "84px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header1-1j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#232323",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<br><br><br><br><br><span style=\"font-style: normal;\"><b>Latest News</b></span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#939393"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "UL": {
+              "text-align": "left"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "content2-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#939393"
+          },
+          "text": "<blockquote><div><span style=\"font-style: normal;\"><br></span></div><h2><span style=\"font-style: normal;\">March 2017</span></h2><p><br></p><h3><a href=\"2017trials.html\"><b>Open Trial Registration Opens - 03.20.2017</b></a></h3><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\">Registration for the 2017 season's Open Trials is now officially open to the public</span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><h3><a href=\"index.html\"><b>Host Site Released - 03.14.2017&nbsp;</b></a></h3><div>Doane University will be the official host site for the 2017 Season</div><div><br></div><div><br></div><h3><a href=\"index.html\"><b>Coaching Staff Released for the 2017 Season - 03.13.2017</b></a></h3><div>Chris Lawson and Erik Berkowitz to lead Lincoln United in 2017</div><div><br></div><p><span style=\"color: inherit; font-family: Lora, serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"><br></span></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-banner-smaller-logo-2000x692.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222"
+          },
+          "text": "<br><br><br><br>FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Lincoln_United\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/lincolnunitedfc\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "footer1-1o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e7e7e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright  © Lincoln United 2017.</b>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p",
+          "_params": {
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/transparent%20logo%20gold%20outline%20with%20effects-111x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "newWindow": false,
+              "color": "#b39c6e",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "Resources.html": {
+      "settings": {
+        "title": "Resources",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "footer1-1u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e7e7e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright  © Lincoln United 2017.</b>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1v",
+          "_params": {
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "newWindow": false,
+              "color": "#b39c6e",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Teams</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">Men's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00001-copy3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00001-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00001-copy3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00001-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }
