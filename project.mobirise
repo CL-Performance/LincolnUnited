@@ -2880,11 +2880,12 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "font-size": "22px"
+              "font-size": "19px",
+              "text-align": "left"
             },
             "P": {
               "font-size": "14px",
-              "text-align": "center"
+              "text-align": "right"
             },
             "SPAN": {
               "font-size": "18px",
@@ -2905,7 +2906,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "2017<br>Host Site&nbsp; &nbsp;",
+                "title": "2017 <br>Host Site &nbsp;",
                 "showText": true,
                 "text": "Doane University has been selected as the host for Lincoln United's inagural season.",
                 "showButtons": true,

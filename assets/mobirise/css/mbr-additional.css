@@ -1392,11 +1392,12 @@ h6,
   color: #c0a375;
 }
 #slider3-2c H2 {
-  font-size: 22px;
+  font-size: 19px;
+  text-align: left;
 }
 #slider3-2c P {
   font-size: 14px;
-  text-align: center;
+  text-align: right;
 }
 #slider3-2c SPAN {
   font-size: 18px;
