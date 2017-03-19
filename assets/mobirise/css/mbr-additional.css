@@ -484,6 +484,12 @@ h6,
 #header1-1 .mbr-section-title SPAN {
   color: #c0a375;
 }
+#slider3-29 H2 {
+  font-size: 48px;
+}
+#slider3-29 P {
+  font-size: 18px;
+}
 #features7-c .card-subtitle {
   color: #bcbcbc;
 }
@@ -600,6 +606,7 @@ h6,
 }
 #header1-e .mbr-section-title SPAN {
   color: #c0a375;
+  font-size: 48px;
 }
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
