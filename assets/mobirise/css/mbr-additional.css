@@ -1319,3 +1319,107 @@ h6,
 #ext_menu-24 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
+#ext_menu-2a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2a .navbar-toggler {
+  color: #c0a375;
+}
+#ext_menu-2a .close-icon::before,
+#ext_menu-2a .close-icon::after {
+  background-color: #c0a375;
+}
+#ext_menu-2a .link,
+#ext_menu-2a .dropdown-item {
+  color: #c0a375;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-2a .link {
+  font-size: 0.8rem;
+}
+#ext_menu-2a .dropdown-item,
+#ext_menu-2a .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-2a .link:hover,
+#ext_menu-2a .dropdown-item:hover,
+#ext_menu-2a .link:focus,
+#ext_menu-2a .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-menu {
+  background: #0a0a0a;
+}
+#ext_menu-2a .nav-dropdown-sm .link:focus,
+#ext_menu-2a .nav-dropdown-sm .link:hover,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:hover {
+  background: #1b1b1b!important;
+}
+#ext_menu-2a .navbar,
+#ext_menu-2a .nav-dropdown-sm,
+#ext_menu-2a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2a .nav-dropdown-sm .dropdown-menu {
+  background: #232323;
+}
+#ext_menu-2a .bg-color.transparent .link {
+  color: #c0a375;
+  transition: none;
+}
+#ext_menu-2a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2a .bg-color.transparent.opened .link:hover,
+#ext_menu-2a .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header1-2b .btn {
+  font-size: 15px;
+}
+#header1-2b .mbr-section-lead {
+  color: #ffffff;
+}
+#header1-2b .mbr-section-title SPAN {
+  color: #c0a375;
+}
+#slider3-2c H2 {
+  font-size: 22px;
+}
+#slider3-2c P {
+  font-size: 14px;
+  text-align: center;
+}
+#slider3-2c SPAN {
+  font-size: 18px;
+  text-align: left;
+}
+#features7-2d .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-2d .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#social-buttons2-2e .mbr-section-title,
+#social-buttons2-2e .btn-social {
+  color: #232323;
+}
+#social-buttons2-2e .mbr-section-title {
+  color: #c0a375;
+  text-align: center;
+}
+#footer1-2f P {
+  color: #232323;
+}
+#footer1-2f B {
+  color: #232323;
+}
