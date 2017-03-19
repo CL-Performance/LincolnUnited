@@ -42,11 +42,16 @@
 
 </script>
 <!-- /Google Analytics -->
-
-@media only screen and (max-width: 500px) {
-    body {
-        window.location = "mobile.yoursite.com"
-    }
+ 
+<!--/Mobile Redirected -->
+<script type="text/javascript">
+  <!--
+  if (screen.width <= 800) {
+    window.location = "http://m.domain.com";
+  }
+  //-->
+</script>
+ <!--/Mobile Redirected -->
 <section id="ext_menu-d">
 
     <nav class="navbar navbar-dropdown bg-color transparent navbar-fixed-top">
