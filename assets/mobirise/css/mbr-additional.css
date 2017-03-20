@@ -486,13 +486,16 @@ h6,
 }
 #slider3-29 H2 {
   font-size: 48px;
-  text-align: left;
+  text-align: center;
   color: #c0a375;
 }
 #slider3-29 P {
   font-size: 18px;
-  text-align: left;
+  text-align: right;
   color: #ffffff;
+}
+#slider3-29 SPAN {
+  text-align: right;
 }
 #features7-c .card-subtitle {
   color: #bcbcbc;

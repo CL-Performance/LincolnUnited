@@ -183,21 +183,38 @@
           "_styles": {
             "H2": {
               "font-size": "48px",
-              "text-align": "left",
+              "text-align": "center",
               "color": "#c0a375"
             },
             "P": {
               "font-size": "18px",
-              "text-align": "left",
+              "text-align": "right",
               "color": "#ffffff"
+            },
+            "SPAN": {
+              "text-align": "right"
             }
           },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "10",
+            "timeout": "7",
             "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/r1hda138lnboep84i6kmx977i0tehl-2000x1122.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; <span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp;Open Trial Dates Released</span></span>",
+                "showText": true,
+                "text": "Lincoln United will host two open trials for the upcoming <br>season on April 8th/9th and April 29th/30th<br><br><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017trials.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a>  "
+              },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/doane-college-crete-nelarge-2.jpg",
@@ -213,7 +230,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/article-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4055,7 +4072,7 @@
             "paddingBottom": "1",
             "bgColor": "#939393"
           },
-          "text": "<h2>What is Lincoln United?</h2><p>Lincoln United, based in Nebraska, is a semi-professional club that competes in the fourth tier of U.S. Soccer as a member of CSL USA’s Midwest Region. Lincoln United prides itself on being the top level of soccer available in the state with a combination of top-level collegiate players from nearby universities and other local talent. Lincoln United approaches the game with a passion for professionalism and player-development, and the club is already making waves in the Midwest during their inaugural campaign.</p>"
+          "text": "<h2>What is Lincoln United?</h2><p>Lincoln United, based in Nebraska, is a semi-professional club that competes in the fourth tier of U.S. Soccer as a member of CSL’s Midwest Region. Lincoln United prides itself on being the top level of soccer available in the state with a combination of top-level collegiate players from nearby universities and other local talent. Lincoln United approaches the game with a passion for professionalism and player-development, and the club is already making waves in the Midwest during their inaugural campaign.</p>"
         },
         {
           "_tags": [
@@ -4803,7 +4820,7 @@
             "paddingBottom": 1,
             "bgColor": "#939393"
           },
-          "text": "<h3>Monday, March 13th, 2017 – Announced today by Lincoln United, Chris Lawson will lead the team and Erik Berkowitz will serve as an assistant during their 2017 campaign\u001b.</h3>"
+          "text": "<h3>Monday, March 13th, 2017 – Announced today by Lincoln United, Chris Lawson will lead the team and Erik Berkowitz will serve as an assistant during their 2017 campaign.</h3>"
         },
         {
           "_tags": [
@@ -4866,7 +4883,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Head Coach - Chris Lawson</b><b><br></b>Lawson, who currently serves as the women’s assistant at Doane University, will bring a wide array of experience with him as Lincoln United prepare for their first season in the CSL USA. Lawson is originally a native of Virginia and has spent the majority of his playing and coaching career on that side of the country. <br><br>As a player, he competed for Bryan College (Tenn.) and for three separate NPSL Clubs: Chattanooga FC (Tenn.), Buxmont Torch FC (Penn.), and Virginia Beach City FC (Virg.). After his playing career, Lawson went on to Coach at Central Virginia United and served as the goalkeeper coach for the Buxmont Torch FC before accepting his current post and moving to Nebraska. Lawson currently holds an NSCAA National Diploma as well as goalkeeper licensing from the organization. <br><br>Lawson, a large advocate of the fourth tier of U.S. Soccer had the following to say: “They [semi-professional clubs] provide top players a great opportunity to play at a higher level while holding on to their collegiate eligibility. As a player and coach I have been fortunate enough to be able to be a part of a lot of professionally run organizations, and I look forward to being able to use what I’ve learned from those experiences here in order to give similar great opportunities to players and coaches in this area.” Lawson looks to be taking the role of providing opportunities to local players very seriously because he has arranged two open trial dates, so all of the local talent gets a chance to be seen.<br>",
+          "text": "<b>Head Coach - Chris Lawson</b><b><br></b>Lawson, who currently serves as the women’s assistant at Doane University, will bring a wide array of experience with him as Lincoln United prepare for their first season in the CSL USA. Lawson is originally a native of Virginia and has spent the majority of his playing and coaching career on that side of the country. <br><br>As a player, he competed for Bryan College (Tenn.) and for three separate NPSL Clubs: Chattanooga FC (Tenn.), Buxmont Torch FC (Penn.), and Virginia Beach City FC (Virg.). After his playing career, Lawson went on to Coach at Central Virginia United and served as the goalkeeper coach for the Buxmont Torch FC before accepting his current post and moving to Nebraska. Lawson currently holds an NSCAA National Diploma as well as goalkeeper licensing from the organization. <br><br>Lawson, a large advocate of the fourth tier of U.S. Soccer had the following to say: “They [semi-professional clubs] provide top players a great opportunity to play at a higher level while holding on to their collegiate eligibility. As a player and coach I have been fortunate enough to be able to be a part of a lot of professionally run organizations, and I look forward to being able to use what I’ve learned from those experiences here in order to give similar great opportunities to players and coaches in this area.” Lawson has already arranged two open trial dates, in order to give local talent exposure as a first step in proving these opportunities for them.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
