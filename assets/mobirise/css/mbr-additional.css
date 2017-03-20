@@ -1143,6 +1143,7 @@ h6,
 
 
 
+
 #header1-1j .btn {
   font-size: 15px;
 }
@@ -1181,12 +1182,10 @@ h6,
   color: #232323;
   font-size: 14px;
 }
-#footer1-1o P {
-  color: #232323;
-}
-#footer1-1o B {
-  color: #232323;
-  text-align: left;
+#content1-5b P {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
 #ext_menu-1p .hide-buttons .nav-btn {
   display: none !important;

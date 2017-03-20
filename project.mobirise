@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 191,
+    "uniqCompNum": 192,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -458,7 +458,7 @@
           "_anchor": "content1-4j",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>",
@@ -589,7 +589,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -623,7 +623,7 @@
           "_anchor": "content1-4l",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -875,7 +875,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -909,7 +909,7 @@
           "_anchor": "content1-4n",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -1160,7 +1160,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1194,7 +1194,7 @@
           "_anchor": "content1-4p",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1479,7 +1479,7 @@
           "_anchor": "content1-4r",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -1710,7 +1710,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1744,7 +1744,7 @@
           "_anchor": "content1-4t",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -2070,7 +2070,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2104,7 +2104,7 @@
           "_anchor": "content1-4v",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -2349,7 +2349,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2368,30 +2368,25 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_name": "footer1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#232323"
-            },
-            "B": {
-              "color": "#232323",
-              "text-align": "left"
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
             }
           },
-          "_anchor": "footer1-1o",
+          "_anchor": "content1-5b",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background-2000x729.jpg",
-            "bgColor": "#7e7e7e",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#444444"
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#7e7e7e"
           },
-          "text": "<b>Copyright  © Lincoln United 2017.</b>"
+          "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
         },
         {
           "_inherit": "menu",
@@ -2988,7 +2983,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3022,7 +3017,7 @@
           "_anchor": "content1-4z",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -4463,7 +4458,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4497,7 +4492,7 @@
           "_anchor": "content1-51",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "4",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -4753,7 +4748,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4787,7 +4782,7 @@
           "_anchor": "content1-53",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -5043,7 +5038,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5077,7 +5072,7 @@
           "_anchor": "content1-55",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -5431,7 +5426,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5465,7 +5460,7 @@
           "_anchor": "content1-57",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
@@ -5591,7 +5586,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18004.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18008.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5660,7 +5655,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5717.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5694,7 +5689,7 @@
           "_anchor": "content1-59",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#7e7e7e"
           },
           "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
