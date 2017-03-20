@@ -209,7 +209,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; <span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp;Open Trial Dates Released</span></span>",
+                "title": "<span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; <span style=\"font-weight: normal;\">&nbsp; &nbsp; </span>Open Trial Dates Released</span>",
                 "showText": true,
                 "text": "Lincoln United will host two open trials for the upcoming <br>season on April 8th/9th and April 29th/30th<br><br><br>",
                 "showButtons": true,
