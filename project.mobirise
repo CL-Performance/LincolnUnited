@@ -183,7 +183,7 @@
           "_styles": {
             "H2": {
               "font-size": "48px",
-              "text-align": "center",
+              "text-align": "right",
               "color": "#c0a375"
             },
             "P": {
@@ -225,7 +225,7 @@
                 "showTitle": true,
                 "title": "2017 Host Site Selected",
                 "showText": true,
-                "text": "Doane University has been selected as the host for Lincoln United's inagural season.",
+                "text": "Doane University has been selected as the host <br>for Lincoln United's inagural season.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
