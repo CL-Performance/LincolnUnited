@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017hostsite.html",
+    "currentPage": "2017trials.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -517,7 +517,7 @@
             "showButtons": true
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Lincoln United Open Trials</span><br>",
-          "text": "<br>Lincoln United will be hosting two open trials in April. Trials will take place on April 8th/9th and 29th/30th and are open to all elidible and interested players. <span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to compete in the CSL USA, players must be at least 16 years old and have obtained either U.S. citizenship or a valid visa by May 1st. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">There is a $50 trial fee that will be put towards your player registration fee if you are selected. All trialists need to submit the $50 trial fee in addition to a release of liability before participation. </span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Both trials will be held at Lincoln United's host location for the 2017, Doane University. Directions to the field can be found below. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Registration for both trials is now open, so feel free to register now or contact a member of our coaching staff for more information. In addition if you are unable to attend either one of our open trials conact us about remote trials. &nbsp;</span><br>",
+          "text": "<br>Lincoln United will be hosting two open trials in April. Trials will take place on April 8th/9th and 29th/30th and are open to all eligible and interested players. <span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to compete in the CSL USA, players must be at least 16 years old and have obtained either U.S. citizenship or a valid visa by May 1st. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">There is a $50 trial fee that will be put towards your player registration fee if you are selected. All trialists need to submit the $50 trial fee in addition to a release of liability before participation. </span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Both trials will be held at Lincoln United's host location for the 2017, Doane University. Directions to the field can be found below. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Registration for both trials is now open, so feel free to register now or contact a member of our coaching staff for more information. In addition if you are unable to attend either one of our open trials conact us about remote trials. &nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017trialschedule.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trial Schedule</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Form</a>   "
         },
         {
@@ -589,7 +589,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -875,7 +875,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1160,7 +1160,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1710,7 +1710,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2070,7 +2070,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2349,7 +2349,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2983,7 +2983,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4458,7 +4458,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4748,7 +4748,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5038,7 +5038,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5427,7 +5427,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5595,7 +5595,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180011.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180013.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5656,7 +5656,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
