@@ -589,7 +589,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -875,7 +875,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1160,7 +1160,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1710,7 +1710,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2070,7 +2070,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2349,7 +2349,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2983,7 +2983,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4458,7 +4458,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4748,7 +4748,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5038,7 +5038,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5236,7 +5236,8 @@
           "_name": "content1",
           "_styles": {
             "H3": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "font-size": "36px"
             }
           },
           "_anchor": "content1-44",
@@ -5245,7 +5246,7 @@
             "paddingBottom": 1,
             "bgColor": "#939393"
           },
-          "text": "<h3>Monday, March 13th, 2017 – Announced today by Lincoln &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 2rem; line-height: 1.1;\">United, Chris Lawson and Erik Berkowitz will lead the team &nbsp; &nbsp; &nbsp; &nbsp; during&nbsp;</span><span style=\"font-size: 2rem; line-height: 1.1;\">their 2017 campaign.</span></h3>"
+          "text": "<h3>Monday, March 13th, 2017 – Announced today by Lincoln United, Chris Lawson and Erik Berkowitz will lead the team during their 2017 campaign.</h3>"
         },
         {
           "_tags": [
@@ -5426,7 +5427,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5594,7 +5595,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18007.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5655,7 +5656,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5716.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
