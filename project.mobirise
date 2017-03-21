@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017trialschedule.html",
+    "currentPage": "2017coachingstaffannouncement.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -241,7 +241,7 @@
                 "showText": true,
                 "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Chris Lawson and Erik Berkowitz have &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;been selected to lead&nbsp;Lincoln United &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; during the 2017 season. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br><br><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"staff.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017coachingstaffannouncement.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a>  "
               }
             ],
             "fullScreen": false,
@@ -455,13 +455,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "5",
-            "bgColor": "#7e7e7e"
-          },
-          "text": "<p><b>Copyright © Lincoln United 2017.</b></p>",
           "_styles": {
             "P": {
               "text-align": "right",
@@ -469,7 +462,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "content1-4j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#7e7e7e"
+          },
+          "text": "<p><b>Copyright © Lincoln United 2017.</b></p>"
         }
       ]
     },
@@ -589,7 +589,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -875,7 +875,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1160,7 +1160,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1710,7 +1710,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2070,7 +2070,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2349,7 +2349,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2983,7 +2983,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4458,7 +4458,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4748,7 +4748,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5038,7 +5038,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5308,7 +5308,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Head Coach - Chris Lawson</b><b><br></b>Lawson, who currently serves as the women’s assistant at Doane University, will bring a wide array of experience with him as Lincoln United prepare for their first season in the CSL USA. Lawson is originally a native of Virginia and has spent the majority of his playing and coaching career on that side of the country. <br><br>As a player, he competed for Bryan College (Tenn.) and for three separate NPSL Clubs: Chattanooga FC (Tenn.), Buxmont Torch FC (Penn.), and Virginia Beach City FC (Virg.). After his playing career, Lawson went on to Coach at Central Virginia United and served as the goalkeeper coach for the Buxmont Torch FC before accepting his current post and moving to Nebraska. Lawson currently holds an NSCAA National Diploma as well as goalkeeper licensing from the organization. <br><br>Lawson, a large advocate of the fourth tier of U.S. Soccer had the following to say: “They [semi-professional clubs] provide top players a great opportunity to play at a higher level while holding on to their collegiate eligibility. As a player and coach I have been fortunate enough to be able to be a part of a lot of professionally run organizations, and I look forward to being able to use what I’ve learned from those experiences here in order to give similar great opportunities to players and coaches in this area.” Lawson has already arranged two open trial dates, in order to give local talent exposure as a first step in proving these opportunities for them.<br>",
+          "text": "<b>Head Coach - Chris Lawson</b><b><br></b>Lawson, who currently serves as the women’s assistant at Doane University, will bring a wide array of experience with him as Lincoln United prepare for their first season in the CSL USA. Lawson is originally a native of Virginia and has spent the majority of his playing and coaching career on that side of the country. <br><br>As a player, he competed for Bryan College (Tenn.) and for three separate NPSL Clubs: Chattanooga FC (Tenn.), Buxmont Torch FC (Penn.), and Virginia Beach City FC (Virg.). After his playing career, Lawson went on to Coach at Central Virginia United and served as the goalkeeper coach for the Buxmont Torch FC before accepting his current post and moving to Nebraska. Lawson currently holds an NSCAA National Diploma as well as goalkeeper licensing from the organization. <br><br>Lawson, a large advocate of the fourth tier of U.S. Soccer had the following to say:<br>“They [semi-professional clubs] provide top players with a great opportunity to play at a higher level while holding on to their collegiate eligibility. As a player and coach I have been fortunate enough to be a part of a lot of professionally run organizations, and I look forward to being able to use what I’ve learned from those experiences in order to give similar great opportunities to players and coaches in this area.” Lawson looks to be taking the role of providing opportunities to local players very seriously as he has already arranged two open trial dates in order to get a look at all the talent in the area.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -5329,7 +5329,7 @@
           },
           "_anchor": "msg-box5-3z",
           "_params": {
-            "imageSize": "41",
+            "imageSize": "42",
             "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
@@ -5353,7 +5353,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14310382-630963283731718-6348969188138894165-o-copy-1400x1912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14310382-630963283731718-6348969188138894165-o-copy-1400x2249.jpg",
               "link": "assistant1.html",
               "alt": "",
               "title": "",
@@ -5372,7 +5372,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Assistant Coach - Erik Berkowitz</b><br>Berkowitz, who currently serves as the men’s assistant at Doane University, will bring a wide array of experience with him as Lincoln United prepare for their first season in the CSL USA. <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+          "text": "<b>Assistant Coach - Erik Berkowitz</b><br>Berkowitz currently holds a position as the men’s assistant soccer coach at Doane University. Berkowitz is originally from Milwaukee, Wisconsin and spent his college years playing for Loras College in Dubuque, Iowa. While a member of the Loras College men’s soccer team Berkowitz received many individual accolades including multiple All-Conference, and All-Region Selections, with an All-American selection following his senior season.<br><br>Berkowitz by trade is a defensive minded player, but he also has collegiate experience as a point forward, giving him experience in all areas of the pitch. Berkowitz spent a year playing abroad for the RIASA academy and was a regular starter for the 1st team of Eccleshill United, a semi-professional club which competes in the 10th tier of the English Football Association.<br><br>Berkowitz has been coaching soccer for the past eleven years. During that time frame, he has worked with multiple USSF and UEFA A licensed coaches while holding an FA level II license of his own. Berkowitz would explain his coaching and playing experiences by saying, “I have had the pleasure of playing and coaching alongside dozens of successful coaches over the years. Most notably I worked alongside the Manchester United youth Academy coaches in Leeds, England by running sessions and identifying talent to push on for trials at the club in Manchester. By working with so many talented coaches I have been able take all of their knowledge and combine that into a style of soccer that I find not only successful but exciting to watch when the vision is achieved. I like to have a disciplined and attentive backline while allowing for the offensive players to be creative and free flowing.” Berkowitz expressed his excitement in being a part of Lincoln United and is looking forward to a competitive first season.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -5426,7 +5426,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5579,6 +5579,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#c0a375"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#c0a375"
+            }
+          },
           "_anchor": "form1-4e",
           "_params": {
             "labelsColor": "#c0a375",
@@ -5586,7 +5594,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180010.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18001.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5624,15 +5632,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#c0a375"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#c0a375"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -5655,7 +5655,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5719.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
