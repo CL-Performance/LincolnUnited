@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "staff.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 192,
+    "uniqCompNum": 195,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -589,7 +589,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -875,7 +875,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1160,7 +1160,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1635,29 +1635,107 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-1a",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5d",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "7",
-            "bgColor": "#939393"
+            "imageSize": "25",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
           },
-          "text": ""
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/chris-lawson-image-button-1400x1752.jpg",
+              "link": "headcoach.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_anchor": "content7-1b",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5e",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
-            "bgColor": "#939393"
+            "imageSize": "25",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
           },
-          "text1": "",
-          "text2": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
-          "text3": ""
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/erik-berkowitz-image-button-1400x1755.jpg",
+              "link": "assistant1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -1710,7 +1788,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2070,7 +2148,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2349,7 +2427,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2983,7 +3061,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4458,7 +4536,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4748,7 +4826,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5038,7 +5116,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5427,7 +5505,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5595,7 +5673,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18001.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18003.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5656,7 +5734,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
