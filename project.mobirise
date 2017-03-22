@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "staff.html",
+    "currentPage": "m.index.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 195,
+    "uniqCompNum": 198,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -36,7 +36,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -479,7 +480,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -589,7 +591,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -734,7 +736,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 4
       },
       "components": [
         {
@@ -875,7 +878,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1020,7 +1023,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 5
       },
       "components": [
         {
@@ -1160,7 +1164,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1305,7 +1309,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 6
       },
       "components": [
         {
@@ -1445,7 +1450,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1590,7 +1595,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 7
       },
       "components": [
         {
@@ -1788,7 +1794,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1933,7 +1939,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 8
       },
       "components": [
         {
@@ -2148,7 +2155,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2293,7 +2300,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 9
       },
       "components": [
         {
@@ -2427,7 +2435,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2569,7 +2577,8 @@
     "Resources.html": {
       "settings": {
         "title": "Resources",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 10
       },
       "components": [
         {
@@ -2821,7 +2830,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 11
       },
       "components": [
         {
@@ -3061,7 +3071,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3206,7 +3216,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -3349,18 +3360,34 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-5f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#939393"
+          },
+          "text": "<p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "font-size": "19px",
-              "text-align": "left"
+              "font-size": "46px",
+              "text-align": "left",
+              "color": "#c0a375"
             },
             "P": {
-              "font-size": "14px",
-              "text-align": "right"
+              "font-size": "15px",
+              "text-align": "right",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "SPAN": {
-              "font-size": "18px",
+              "font-size": "15px",
               "text-align": "left"
             }
           },
@@ -3371,7 +3398,21 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/r1hda138lnboep84i6kmx977i0tehl-2000x1334.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Trial Dates Released",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Lincoln United will host two open trials for the upcoming&nbsp;season on April 8th/9th and April 29th/30th</span><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+              },
+              {
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/doane-college-crete-nelarge-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -3381,6 +3422,20 @@
                 "title": "2017 <br>Host Site &nbsp;",
                 "showText": true,
                 "text": "Doane University has been selected as the host for Lincoln United's inagural season.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/lu-background-staff-shaded-2000x2651.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "2017 Staff Announced &nbsp;",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Chris Lawson and Erik Berkowitz have been selected to lead Lincoln United during the 2017 season.</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017hostsite.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               }
@@ -3553,30 +3608,43 @@
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Lincoln_United\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/lincolnunitedfc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
-          "_name": "footer1",
           "_styles": {
-            "P": {
-              "color": "#232323"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
-            "B": {
+            ".lead P": {
+              "text-align": "right",
               "color": "#232323",
-              "text-align": "left"
+              "font-size": "14px"
             }
           },
-          "_anchor": "footer1-2f",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5h",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background-2000x729.jpg",
-            "bgColor": "#7e7e7e",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x1316.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#444444"
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "text": "<b>Copyright  © Lincoln United 2017.</b>"
+          "title": "",
+          "text": "<p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
@@ -3586,7 +3654,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 12
       },
       "components": [
         {
@@ -3847,7 +3916,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 13
       },
       "components": [
         {
@@ -4109,7 +4179,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 14
       },
       "components": [
         {
@@ -4399,7 +4470,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 15
       },
       "components": [
         {
@@ -4536,7 +4608,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4681,7 +4753,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 16
       },
       "components": [
         {
@@ -4826,7 +4899,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4971,7 +5044,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 17
       },
       "components": [
         {
@@ -5116,7 +5190,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5261,7 +5335,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 18
       },
       "components": [
         {
@@ -5505,7 +5580,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5650,7 +5725,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 19
       },
       "components": [
         {
@@ -5673,7 +5749,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18001.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5734,7 +5810,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {

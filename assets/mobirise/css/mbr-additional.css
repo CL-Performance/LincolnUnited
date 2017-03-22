@@ -1421,6 +1421,7 @@ h6,
   color: #c0a375!important;
 }
 
+
 #ext_menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1493,15 +1494,17 @@ h6,
   color: #c0a375;
 }
 #slider3-2c H2 {
-  font-size: 19px;
+  font-size: 46px;
   text-align: left;
+  color: #c0a375;
 }
 #slider3-2c P {
-  font-size: 14px;
+  font-size: 15px;
   text-align: right;
+  font-family: 'Lora', serif;
 }
 #slider3-2c SPAN {
-  font-size: 18px;
+  font-size: 15px;
   text-align: left;
 }
 #features7-2d .card-subtitle {
@@ -1519,12 +1522,14 @@ h6,
   color: #c0a375;
   text-align: center;
 }
-#footer1-2f P {
-  color: #232323;
+#msg-box8-5h .mbr-section-title,
+#msg-box8-5h p {
+  color: #fff;
 }
-#footer1-2f B {
+#msg-box8-5h .lead P {
+  text-align: right;
   color: #232323;
-  text-align: left;
+  font-size: 14px;
 }
 
 
