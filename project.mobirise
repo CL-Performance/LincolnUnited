@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "m.optimization.html",
+    "currentPage": "index.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93437802-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<!--/Google Anaylitics -->\r\n\r\n<!--/Mobile Redirected -->\r\n<script type=\"text/javascript\">\r\n  <!--\r\n  if (screen.width <= 800) {\r\n    window.location = \"https://lincolnunited.github.io/LincolnUnited/m.optimization.html\";\r\n  }\r\n  //-->\r\n</script>\r\n <!--/Mobile Redirected -->"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93437802-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -591,7 +591,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -878,7 +878,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1164,7 +1164,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1450,7 +1450,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1794,7 +1794,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2196,7 +2196,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2476,7 +2476,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2781,7 +2781,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4110,7 +4110,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4372,7 +4372,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4663,7 +4663,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4954,7 +4954,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5344,7 +5344,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5513,7 +5513,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18002.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5574,7 +5574,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5713.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5710.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5835,7 +5835,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6159,7 +6159,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6516,7 +6516,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6790,7 +6790,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7105,7 +7105,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7253,7 +7253,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18002.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7314,7 +7314,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7576,7 +7576,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7867,7 +7867,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13164.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13161.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
