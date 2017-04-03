@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "m.internships.html",
+    "currentPage": "internships.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 328,
+    "uniqCompNum": 329,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -605,7 +605,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -892,7 +892,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1178,7 +1178,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1464,7 +1464,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1738,7 +1738,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2140,7 +2140,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2361,13 +2361,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "content2-1r",
+          "_anchor": "content2-94",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#939393"
           },
-          "text": "<blockquote><div><span style=\"font-style: normal;\"><br></span></div><h2><span style=\"font-style: normal;\">March 2017</span></h2><p><br></p><h3><a href=\"2017trials.html\"><b>Open Trial Registration Opens - 03.20.2017</b></a></h3><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\">Registration for the 2017 season's Open Trials is now officially open to the public</span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><h3><a href=\"2017hostsite.html\"><b>Host Site Released - 03.14.2017&nbsp;</b></a><a href=\"index.html\"><b></b></a></h3><div>Doane University will be the official host site for the 2017 Season</div><div><br></div><div><br></div><h3><a href=\"assistant1.html\"><b>1st Assistant Named for the 2017 Season - 03.13.2017</b></a></h3><div>Berkowitz to Serve as an assistant for Lincoln United</div><div><br></div><div><br></div><h3><a href=\"headcoach.html\"><b>Head Coach Named for the 2017 Season - 03.13.2017</b></a><a href=\"#\"><b></b></a><a href=\"index.html\"><b></b></a></h3><div>Lawson to lead Lincoln United</div><div><br></div><p><span style=\"color: inherit; font-family: Lora, serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"><br></span></p></blockquote>"
+          "text": "<blockquote><h2><span style=\"font-style: normal; color: inherit; font-size: 2.5rem; line-height: 1.1;\">March 2017</span><br></h2><p><br></p><h3><a href=\"2017trials.html\"><b>Open Trial Registration Opens - 03.20.2017</b></a></h3><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\">Registration for the 2017 season's Open Trials is now officially open to the public</span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><p><font face=\"Lora, serif\"><span style=\"font-size: 17px; font-weight: 300; line-height: 26px;\"><br></span></font></p><h3><a href=\"2017hostsite.html\"><b>Host Site Released - 03.14.2017&nbsp;</b></a><a href=\"index.html\"><b></b></a></h3><div>Doane University will be the official host site for the 2017 Season</div><div><br></div><div><br></div><h3><a href=\"assistant1.html\"><b>1st Assistant Named for the 2017 Season - 03.13.2017</b></a></h3><div>Berkowitz to Serve as an assistant for Lincoln United</div><div><br></div><div><br></div><h3><a href=\"headcoach.html\"><b>Head Coach Named for the 2017 Season - 03.13.2017</b></a><a href=\"#\"><b></b></a><a href=\"index.html\"><b></b></a></h3><div>Lawson to lead Lincoln United</div><div><br></div><p><span style=\"color: inherit; font-family: Lora, serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5;\"><br></span></p></blockquote>"
         },
         {
           "_styles": {
@@ -2420,7 +2420,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2725,7 +2725,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4068,7 +4068,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4356,7 +4356,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4647,7 +4647,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4938,7 +4938,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5328,7 +5328,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5497,7 +5497,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180018.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5558,7 +5558,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5819,7 +5819,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6071,7 +6071,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6428,7 +6428,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6702,7 +6702,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7017,7 +7017,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7165,7 +7165,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180018.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7226,7 +7226,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7514,7 +7514,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7805,7 +7805,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7960,7 +7960,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65919.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8087,7 +8087,7 @@
             "showButtons": false
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Internship Opportunities</span><br>",
-          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with a hands-on internship opportunity for this summer in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Design<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Outreach<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school or equivalent<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;&nbsp;</span><br>",
+          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with a hands-on internship opportunity for this summer in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Design<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Promotions<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school or equivalent<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017trialschedule.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trial Schedule</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Form</a>   "
         },
         {
@@ -8159,7 +8159,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57116.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8349,7 +8349,7 @@
             "showButtons": false
           },
           "title": "<br><span style=\"font-weight: normal;\">Internship Opportunities</span>",
-          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with a hands-on internship opportunity for this summer in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Desig<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Outreach<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school equivalent or higher<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br>",
+          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with a hands-on internship opportunity for this summer in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Desig<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Promotions<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school equivalent or higher<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017trialschedule.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trial Schedule</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Form</a>   "
         },
         {
@@ -8421,7 +8421,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131613.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131617.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
