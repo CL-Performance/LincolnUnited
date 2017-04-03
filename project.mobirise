@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "internships.html",
+    "currentPage": "m.internships.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -605,7 +605,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -892,7 +892,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1178,7 +1178,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1464,7 +1464,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1738,7 +1738,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2140,7 +2140,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2420,7 +2420,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2725,7 +2725,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4068,7 +4068,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4356,7 +4356,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4647,7 +4647,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4938,7 +4938,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5328,7 +5328,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5497,7 +5497,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180030.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5558,7 +5558,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5819,7 +5819,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6071,7 +6071,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6428,7 +6428,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6702,7 +6702,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7017,7 +7017,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7165,7 +7165,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180030.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7226,7 +7226,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7514,7 +7514,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7805,7 +7805,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7960,7 +7960,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65931.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8087,7 +8087,7 @@
             "showButtons": false
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Internship Opportunities</span><br>",
-          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with hands-on internship opportunities for the 2017 summer season in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Design<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Promotions<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school or equivalent<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;&nbsp;</span><br>",
+          "text": "<br>Lincoln United Football Club is looking to provide the right candidates with hands-on internship opportunities for the 2017 summer season in the following areas:<br><br>•\tBackroom Staff<br>•\tBroadcasting<br>•\tCorporate Relations<br>•\tGame-Day Operations<br>•\tGraphic/Web Design<br>•\tPerformance Analysis<br>•\tPublic Relations<br>•\tMarketing/Sales<br>•\tSocial Media/Promotions<br><br>The right candidates will demonstrate professionalism, a high work rate, and experience in a similar field to the one applied for.<br><br>Requirements<br><br>•\tEducation level - High school equivalent or higher<br>•\tExperience in a Similar Field<br>•\tProfessional Mentality<br><br>Interested Candidates should email a letter of interest for a specific field of interest, a CV/resume, and a list of professional references to <a href=\"mailto:chrislawson.lufc@gmail.com\" target=\"_blank\">chrislawson.lufc@gmail.com</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"2017trialschedule.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trial Schedule</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Form</a>   "
         },
         {
@@ -8159,7 +8159,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57128.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8421,7 +8421,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131625.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131629.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
