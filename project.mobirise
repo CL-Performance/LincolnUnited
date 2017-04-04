@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "staff.html",
+    "currentPage": "m.staff.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -605,7 +605,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -892,7 +892,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1178,7 +1178,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1464,7 +1464,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1738,7 +1738,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2140,7 +2140,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2420,7 +2420,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2725,7 +2725,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4068,7 +4068,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4356,7 +4356,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4647,7 +4647,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4938,7 +4938,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5328,7 +5328,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5497,7 +5497,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18006.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180012.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5558,7 +5558,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5819,7 +5819,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5997,7 +5997,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"228\"><p style=\"font-size: 21px; font-family: 'Droid Serif', serif;\"><a href=\"headcoach.html\"><img src=\"@PROJECT_PATH@/assets/images/law-background-600x713.jpg\" class=\"img-responsive\" style=\"display: block; float: left; width: 30%;padding:2px;\"></a><span style=\"color: #8E1D22; font-family: Droid+Serif; font-size: 22px;\"><strong>Chris Lawson</strong></span></p><p>Head Coach</p><p><a href=\"mailto:chrislawson.lufc@gmail.com\" class=\"text-black\"><span style=\"color: #bc121a; font-family: Droid+Serif; font-size: 15px;\"><u>chrislawson.lufc@gmail.com</u></span></a></p>\n\n            </div>\n           \n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"236\"><p style=\"font-size: 21px; font-family: 'Droid Serif', serif;\"><a href=\"headcoach.html\"><img src=\"@PROJECT_PATH@/assets/images/law-background-600x713.jpg\" class=\"img-responsive\" style=\"display: block; float: left; width: 30%;padding:3px;\"></a><span style=\"color: #8E1D22; font-family: Droid+Serif; font-size: 22px;\"><strong>Chris Lawson</strong></span></p><p>Head Coach</p><p><a href=\"mailto:chrislawson.lufc@gmail.com\" class=\"text-black\"><span style=\"color: #bc121a; font-family: Droid+Serif; font-size: 15px;\"><u>chrislawson.lufc@gmail.com</u></span></a></p>\n\n            </div>\n           \n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\nP {\n\tfont-family: 'Montserrat', sans-serif;\n\tfont-size: 18px;\n}\na {\n\tfont-family: 'Droid+Serif', sans-serif;\n\tfont-size: 16px;\n}",
           "_customTemplate": true,
           "_PHPplaceholders": [],
@@ -6015,7 +6015,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"209\"><p style=\"font-size: 21px; font-family: 'Droid Serif', serif;\"><a href=\"assistant1.html\"><img src=\"@PROJECT_PATH@/assets/images/berk-background-600x715.jpg\" class=\"img-responsive\" style=\"display: block; float: left; width: 30%;padding:1px;\"></a><span style=\"color: #8E1D22; font-family: Droid+Serif; font-size: 22px;\"><strong>Erik Berkowitz</strong></span></p><p>Assistant Coach</p><p>\n\n            </p></div>\n           \n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"238\"><p style=\"font-size: 21px; font-family: 'Droid Serif', serif;\"><a href=\"assistant1.html\"><img src=\"@PROJECT_PATH@/assets/images/berk-background-600x715.jpg\" class=\"img-responsive\" style=\"display: block; float: left; width: 30%;padding:3px;\"></a><span style=\"color: #8E1D22; font-family: Droid+Serif; font-size: 22px;\"><strong>Erik Berkowitz</strong></span></p><p>Assistant Coach</p><p>\n\n            </p></div>\n           \n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\nP {\n\tfont-family: 'Montserrat', sans-serif;\n\tfont-size: 18px;\n}\na {\n\tfont-family: 'Droid+Serif', sans-serif;\n\tfont-size: 16px;\n}",
           "_customTemplate": true,
           "_anchor": "content1-82",
@@ -6073,7 +6073,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6430,7 +6430,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6704,7 +6704,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7019,7 +7019,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7167,7 +7167,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18006.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180012.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7228,7 +7228,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7516,7 +7516,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7807,7 +7807,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7962,7 +7962,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x6597.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65913.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7994,7 +7994,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-600x7158.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-600x71514.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8010,7 +8010,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x7139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x71315.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8169,7 +8169,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x5714.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-background2-2000x57110.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8431,7 +8431,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x13165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-mobile-copy-2000x131611.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
