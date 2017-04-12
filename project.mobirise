@@ -3211,7 +3211,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180015.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4652,7 +4652,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x6591.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65916.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4684,7 +4684,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-600x7152.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-600x71517.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4700,7 +4700,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x7133.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x71318.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4716,7 +4716,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-website-600x6614.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66119.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4777,7 +4777,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x3375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33720.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4793,7 +4793,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x3376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4809,7 +4809,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x3377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4841,7 +4841,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-logo-600x6008.png",
+              "src": "@PROJECT_PATH@/assets/images/csl-logo-600x60023.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4857,7 +4857,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x6009.png",
+              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60024.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4902,7 +4902,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4918,7 +4918,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33711.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33726.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4934,7 +4934,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33727.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4950,7 +4950,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60013.png",
+              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60028.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5196,7 +5196,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180015.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6969,7 +6969,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180015.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7356,7 +7356,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-banner-smaller-logo-2000x69214.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-banner-smaller-logo-2000x69229.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7507,7 +7507,7 @@
             "showMeta": true
           },
           "title": "Latest Signings",
-          "meta": "Last Updated April 10, 2017\u001b"
+          "meta": "Last Updated April 12, 2017"
         },
         {
           "_tags": [
