@@ -9886,6 +9886,104 @@ h6,
   color: #b8312f;
   font-family: 'Oswald', sans-serif;
 }
+#features3-ik {
+  /* Style the Image Used to Trigger the Modal */
+  /* The Modal (background) */
+  /* Modal Content (Image) */
+  /* Caption of Modal Image (Image Text) - Same Width as the Image */
+  /* Add Animation - Zoom in the Modal */
+  /* The Close Button */
+  /* 100% Image Width on Smaller Screens */
+}
+#features3-ik #myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+#features3-ik #myImg:hover {
+  opacity: 0.7;
+}
+#features3-ik .modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  padding-top: 100px;
+  /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: #000000;
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.9);
+  /* Black w/ opacity */
+}
+#features3-ik .modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+#features3-ik #caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+#features3-ik .modal-content,
+#features3-ik #caption {
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(0);
+  }
+  to {
+    -webkit-transform: scale(1);
+  }
+}
+@keyframes zoom {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+#features3-ik .close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+#features3-ik .close:hover,
+#features3-ik .close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+@media only screen and (max-width: 700px) {
+  #features3-ik .modal-content {
+    width: 100%;
+  }
+}
 #content1-da H2 {
   color: #b8312f;
   font-family: 'Oswald', sans-serif;
@@ -88726,6 +88824,17 @@ h6,
 }
 #header3-c4 H3 {
   color: #b8312f;
+}
+#msg-box5-ij P {
+  text-align: left;
+  color: #efefef;
+}
+#msg-box5-ij H3 {
+  color: #b8312f;
+  font-size: 32px;
+}
+#msg-box5-ij SPAN {
+  color: #8c8c8c;
 }
 #msg-box5-c5 P {
   text-align: left;
