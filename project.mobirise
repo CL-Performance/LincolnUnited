@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "squad.html",
+    "currentPage": "2017trialschedule.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -1917,47 +1917,6 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-1g",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#838383",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "April 29th-30th",
-          "text": "<div><br></div><ul><li>April 29th 11:00am - &nbsp;1:00pm --- Trial Period for Group One&nbsp;</li><li>April 29th &nbsp; 1:00pm - 3:00pm --- Trial Period for Group Two&nbsp;</li><li>April 30th 12:00pm - 2:00pm --- Callback Trial</li></ul>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://goo.gl/forms/IcZntvU1QzO0tnho1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#232323"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
           "_anchor": "msg-box3-74",
           "_params": {
             "paddingTop": "1",
@@ -1979,7 +1938,7 @@
             "showButton": true
           },
           "title": "May 16th-17th",
-          "text": "<div><br></div><ul><li>May 16th &nbsp;Time TBD --- Trial Period for Group One&nbsp;</li><li>May 16th &nbsp;Time TBD --- Trial Period for Group Two&nbsp;</li><li>May 17th &nbsp;Time TBD --- Callback Trial</li></ul>",
+          "text": "<div><br></div><ul><li>May 16th &nbsp;4:30 - 6:30pm --- Trial Period for Group One&nbsp;</li><li>May 16th &nbsp;6:30 - 8:30pm --- Trial Period for Group Two&nbsp;</li><li>May 17th &nbsp;Time TBD --- Callback Trial</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://goo.gl/forms/IcZntvU1QzO0tnho1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Now</a>"
         },
         {
@@ -3196,7 +3155,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180013.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4635,7 +4594,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65927.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4651,7 +4610,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66128.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4667,7 +4626,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71516.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71529.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4683,7 +4642,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x71317.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x71330.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4699,7 +4658,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66118.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66131.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4760,7 +4719,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33719.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33732.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4776,7 +4735,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33733.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4792,7 +4751,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33734.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4824,7 +4783,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60022.png",
+              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60035.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4840,7 +4799,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60023.png",
+              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60036.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4917,7 +4876,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60024.png",
+              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60037.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4933,7 +4892,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60025.png",
+              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60038.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5181,7 +5140,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180013.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6952,7 +6911,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180013.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
