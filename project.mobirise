@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017trialschedule.html",
+    "currentPage": "m.schedule.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 677,
+    "uniqCompNum": 726,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -143,17 +143,17 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-bt",
+          "_anchor": "image2-it",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#969696",
             "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/schedule-1400x413.jpg",
+              "src": "@PROJECT_PATH@/assets/images/matchday-1-vs-rafshaded-1400x413.png",
               "width": 1400,
               "link": "schedule.html",
               "alt": "",
@@ -179,7 +179,7 @@
           "text1": "<p><a href=\"internships.html\"><img src=\"@PROJECT_PATH@/assets/images/picture-background-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a>_</p>",
           "text2": "<p><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/sanctioned-600x312.jpg\" style=\"width: 100%;\"></a>_</p>",
           "text3": "<p><a href=\"facebook.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/sanctioned-600x312.jpg\" style=\"width: 100%;\"></a></p>",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: #969696; padding-top: 0px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"713\"><p><a href=\"signings.html\"><img src=\"@PROJECT_PATH@/assets/images/signings-with-shadings-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"714\"><p><a href=\"internships.html\"><img src=\"@PROJECT_PATH@/assets/images/picture-background-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n            \n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"715\"><p><a href=\"http://www.thecslusa.com/news/usasa-sanctions-the-champions-soccer-league-usa-as\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-league-status-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n        </div>\n  <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"716\"><p><a><br><br><br><br></a></p></div>\n    </div>\n<div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#slider3-c1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: #969696; padding-top: 0px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"26\"><p><a href=\"signings.html\"><img src=\"@PROJECT_PATH@/assets/images/signings-with-shadings-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"27\"><p><a href=\"internships.html\"><img src=\"@PROJECT_PATH@/assets/images/picture-background-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n            \n            <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"28\"><p><a href=\"http://www.thecslusa.com/news/usasa-sanctions-the-champions-soccer-league-usa-as\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-league-status-600x337.jpg\" style=\"width: 100%; float: left;\" class=\"img-rounded\"></a></p></div>\n        </div>\n  <div class=\"col-xs-12 col-md-4 lead mbr-editable-full\" code-editable-id=\"29\"><p><a><br><br><br><br></a></p></div>\n    </div>\n<div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#slider3-c1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "P {\n\tcolor: #232323;\n}\n",
@@ -667,51 +667,12 @@
       "settings": {
         "title": "2017 Schedule",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<!--/Mobile Redirected -->\n<script type=\"text/javascript\">\n  <!--\n  if (screen.width <= 800) {\n    window.location = \"https://lincolnunited.github.io/LincolnUnited/m.schedule.html\";\n  }\n  //-->\n</script>\n <!--/Mobile Redirected -->",
         "footer_custom": "",
         "html_before": "",
         "order": 19
       },
       "components": [
-        {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            ".btn": {
-              "font-size": "15px"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#b8312f",
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "header1-e",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#232323",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">2017 Schedule Coming Soon...</span><br>",
-          "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> "
-        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -722,11 +683,34 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-iu",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#939393",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-l",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#939393",
+            "bgColor": "#232323",
             "showMeta": true
           },
           "title": "2017 Schedule",
@@ -736,14 +720,298 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-j",
+          "_name": "content1",
+          "_anchor": "content1-j6",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#232323"
+          },
+          "text": "<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Away &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"#\" target=\"_blank\">Tickets</a></h3>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(35, 35, 35); padding-top: 20px; padding-bottom: 0px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"252\"><h3 style=\"color: #efefef\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Away &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"#\" target=\"_blank\">Tickets</a></h3></div>\n        </div>\n    </div>\n\n</section>\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\nH2 {\n\tcolor: #b8312f;\n\tfont-family: 'Oswald', sans-serif;\n}\nH3 { color: #b8312f;\n\t\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#939393"
           },
-          "text": ""
+          "text": "<h3><a href=\"http://www.thecslusa.com/racine-force\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/racine-force-logo-600x593.png\" style=\"width: 102px; height: 100px;\"></a>&nbsp; Racine Force &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vs &nbsp; &nbsp; &nbsp; Lincoln United&nbsp;<a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;June 1 &nbsp; &nbsp;- &nbsp; 6:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-ix",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"index.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 99px; height: 99px;\"></a>&nbsp; Lincoln United &nbsp; &nbsp; &nbsp; vs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Indy Saints &nbsp;<a href=\"http://www.indysaintsfc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/indy-saints-logo-600x600.png\" style=\"width:103px;height:100px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 4 &nbsp; &nbsp;- &nbsp; &nbsp;2:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"https://www.huskerssc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/lsc-2-600x597.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; Lincoln S.C. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vs &nbsp; &nbsp; &nbsp; Lincoln United&nbsp;<a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;June 10 &nbsp;- &nbsp; 7:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"http://www.indysaintsfc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/indy-saints-logo-600x600.png\" style=\"width: 102px; height: 100px;\"></a>&nbsp; Indy Saints &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vs &nbsp; &nbsp; &nbsp; Lincoln United&nbsp;<a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;June 17 &nbsp; - &nbsp; 2:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"http://www.thecslusa.com/south-bend-f-c\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/south-bend-logo-600x607.png\" style=\"width: 101px; height: 100px;\"></a>&nbsp; South Bend FC &nbsp; &nbsp; &nbsp;vs &nbsp; &nbsp; &nbsp; Lincoln United&nbsp;<a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;June 18 &nbsp; - &nbsp; 5:30pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-iz",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"index.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 99px; height: 99px;\"></a>&nbsp;&nbsp;Lincoln United &nbsp; &nbsp; &nbsp; vs &nbsp; &nbsp; &nbsp; &nbsp; Racine Force &nbsp;<a href=\"http://www.thecslusa.com/racine-force\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/racine-force-logo-600x593.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2 &nbsp; &nbsp; &nbsp;- &nbsp; &nbsp;2:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"index.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 99px; height: 99px;\"></a>&nbsp;&nbsp;Lincoln United &nbsp; &nbsp; &nbsp; vs &nbsp; &nbsp; South Bend FC &nbsp;<a href=\"http://www.thecslusa.com/south-bend-f-c\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/south-bend-logo-600x607.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;July 16 &nbsp; &nbsp; - &nbsp; 2:00pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><a href=\"index.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 99px; height: 99px;\"></a>&nbsp; Lincoln United &nbsp; &nbsp; &nbsp; vs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Lincoln SC &nbsp;&nbsp;<a href=\"https://www.huskerssc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/lsc-2-600x597.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;July 22 &nbsp; &nbsp;- &nbsp; 7:30pm</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\">&nbsp; Lincoln United &nbsp;- &nbsp;Region II Semi-Final &nbsp;<a href=\"http://www.thecslusa.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 28 &nbsp; &nbsp; - &nbsp; Time TBD</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j8",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\">&nbsp; Lincoln United &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; Region II Final &nbsp;<a href=\"http://www.thecslusa.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 30 &nbsp; &nbsp;- &nbsp; Time TBD</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-j9",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\">&nbsp; Lincoln United &nbsp;- &nbsp;National Semi-Final &nbsp;<a href=\"http://www.thecslusa.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 4</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-ja",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#939393"
+          },
+          "text": "<h3><img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png\" style=\"width: 100px; height: 100px;\">&nbsp; Lincoln United &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp;National Final &nbsp;<a href=\"http://www.thecslusa.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August 6</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-iv",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Simon Field, Crete, NE",
+              "placeId": "ChIJU3XxWAnllocRk8MXBu3qyUM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Match-Venue</strong><br>Doane University<br>1014 Boswell Ave.<br>Crete, NE. 68333<br><br><br>\n<strong>Contacts</strong><br>\nEmail: chrislawson.lufc@gmail.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ticketing-Links</strong></p><ul><li><a href=\"#\">Season Tickets</a></li><li><a href=\"#\">Online Ticket Purchase</a></li><li><a href=\"#\">Group Deals</a></li></ul>"
         },
         {
           "_styles": {
@@ -894,7 +1162,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -1406,7 +1674,7 @@
         "header_custom": "<!--/Mobile Redirected -->\n<script type=\"text/javascript\">\n  <!--\n  if (screen.width <= 800) {\n    window.location = \"https://lincolnunited.github.io/LincolnUnited/m.womenssquad.html\";\n  }\n  //-->\n</script>\n <!--/Mobile Redirected -->",
         "footer_custom": "",
         "html_before": "",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1611,7 +1879,7 @@
         "header_custom": "<!--/Mobile Redirected -->\n<script type=\"text/javascript\">\n  <!--\n  if (screen.width <= 800) {\n    window.location = \"https://lincolnunited.github.io/LincolnUnited/m.staff.html\";\n  }\n  //-->\n</script>\n <!--/Mobile Redirected -->",
         "footer_custom": "",
         "html_before": "",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -2407,7 +2675,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -3155,7 +3423,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800165.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3527,7 +3795,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -4463,7 +4731,7 @@
       "settings": {
         "title": "Resources",
         "meta_descr": "",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -4594,7 +4862,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x659166.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4610,7 +4878,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x661167.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4626,7 +4894,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71529.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x715168.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4642,7 +4910,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x71330.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x713169.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4658,7 +4926,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66131.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ali-website-600x661170.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4719,7 +4987,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33732.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x337171.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4735,7 +5003,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33733.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x337172.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4751,7 +5019,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33734.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x337173.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4783,7 +5051,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60035.png",
+              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x600174.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4799,7 +5067,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60036.png",
+              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x600175.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4876,7 +5144,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60037.png",
+              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x600176.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4892,7 +5160,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60038.png",
+              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x600177.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4925,6 +5193,131 @@
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-600x222.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-iy",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-1-600x222178.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/racine-force-logo-600x593179.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/south-bend-logo-600x607180.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lsc-2-600x597181.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/indy-saints-logo-600x600182.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kenosha-updated-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5140,7 +5533,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800165.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5540,7 +5933,7 @@
         "header_custom": "<!--/Mobile Redirected -->\n<script type=\"text/javascript\">\n  <!--\n  if (screen.width <= 800) {\n    window.location = \"https://lincolnunited.github.io/LincolnUnited/m.u21squad.html\";\n  }\n  //-->\n</script>\n <!--/Mobile Redirected -->",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -5763,7 +6156,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -5974,7 +6367,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -6178,7 +6571,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -6382,7 +6775,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -6911,7 +7304,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180026.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x1800165.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7326,7 +7719,7 @@
       "settings": {
         "title": "Latest Player Signings",
         "meta_descr": "",
-        "order": 33,
+        "order": 34,
         "footer_custom": ""
       },
       "components": [
@@ -7948,7 +8341,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/schedule-1400x413.jpg",
+              "src": "@PROJECT_PATH@/assets/images/matchday-1-vs-rafshaded-1400x413.png",
               "width": 1400,
               "link": "schedule.html",
               "alt": "",
@@ -8164,7 +8557,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -8368,7 +8761,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -8948,7 +9341,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -9142,6 +9535,536 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-iq"
+        }
+      ]
+    },
+    "m.schedule.html": {
+      "settings": {
+        "title": "2017 Schedule",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 20
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-jb",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#939393",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-jc",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323",
+            "showMeta": true
+          },
+          "title": "2017 Schedule",
+          "meta": "",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(35, 35, 35); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 style=\"color:#b8312f\" class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"257\">2017 Schedule</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"258\"></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tcolor: #b8312f;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "color": "#b8312f",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H3": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content1-jd",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#232323"
+          },
+          "text": "<h3></h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jx",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Away at Racine Force</h2><h3><a href=\"http://www.thecslusa.com/racine-force\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/racine-force-logo-600x59370.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; 06.01 (6:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-ju",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Home vs Indy Saints</h2><h3><a href=\"http://www.indysaintsfc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/indy-saints-logo-600x600.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 06.04 (2:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jf",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Away at Lincoln S.C.</h2><h3><a href=\"https://www.huskerssc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/lsc-2-600x597.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; 06.10 (7:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jv",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Away at Indy Saints</h2><h3><a href=\"http://www.indysaintsfc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/indy-saints-logo-600x600131.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; 06.17 (2:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jw",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Away at South Bend</h2><h3><a href=\"http://www.thecslusa.com/south-bend-f-c\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/south-bend-logo-600x607.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; 06.18 (5:30pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jy",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Home vs Kenosha FC</h2><h3><a href=\"http://www.thecslusa.com/racine-force\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/racine-force-logo-600x59370.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 07.02 (2:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-jz",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Home vs South Bend</h2><h3><a href=\"http://www.thecslusa.com/south-bend-f-c\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/south-bend-logo-600x607.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 07.16 (2:00pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-k0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Home vs Lincoln S.C.</h2><h3><a href=\"https://www.huskerssc.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/lsc-2-600x597.png\" style=\"width: 100px; height: 100px;\"></a>&nbsp; 07.22 (7:30pm)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-k1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Region II Semi-Final</h2><h3><a href=\"http://www.thecslusa.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 07.28 (TBD)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-k2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>Region II Final</h2><h3><a href=\"http://www.thecslusa.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 07.30 (TBD)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-k3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>National Semi-Final</h2><h3><a href=\"http://www.thecslusa.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 08.04 (TBD)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-k4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#939393"
+          },
+          "text": "<h2>National Final</h2><h3><a href=\"http://www.thecslusa.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x6009.png\" style=\"width:100px;height:100px;\"></a>&nbsp; 08.06 (TBD)</h3>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-jq",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Simon Field, Crete, NE",
+              "placeId": "ChIJU3XxWAnllocRk8MXBu3qyUM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Match-Venue</strong><br>Doane University<br>1014 Boswell Ave.<br>Crete, NE. 68333<br><br><br>\n<strong>Contacts</strong><br>\nEmail: chrislawson.lufc@gmail.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ticketing-Links</strong></p><ul><li><a href=\"#\">Season Tickets</a></li><li><a href=\"#\">Online Ticket Purchase</a></li><li><a href=\"#\">Group Deals</a></li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-jr",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-banner-smaller-logo-2000x692-4.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222"
+          },
+          "text": "<br><span style=\"font-size: 3rem; line-height: 1.1;\">FOLLOW US</span><br>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/LincolnUnitedNE\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/lincolnunitedfc\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "  <footer class=\"site-footer\">\n    <div class=\"row-tablet\">\n      <section class=\"site-footer-section site-footer-sponsors\">\n        <ul class=\"site-footer-sponsors-list\">\n          \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"https://lincolnunited.github.io/LincolnUnited/\" title=\"Lincoln United\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/1x1-transparent-600x600.png\" width=\"100\" height=\"None\" alt=\"LUFC\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a>\n              \n            </li>\n          \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://thecslusa.com\" target=\"_blank\" title=\"CSL League Site\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/csl-usa-600x600.png\" width=\"100\" height=\"None\" alt=\"CSL USA\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a>\n              \n            </li>\n          \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://www.usadultsoccer.com/\" target=\"_blank\" title=\"US Adult Soccer\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/us-soccer-600x600.png\" width=\"100\" height=\"None\" alt=\"US Amatuer Soccer\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a>\n              \n            </li>\n          \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://www.craigzimmerman.video/\" target=\"_blank\" title=\"Craig Zimmerman Video &amp; Media Production\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/logo-600x600.png\" width=\"100\" height=\"None\" alt=\"Craig Zimmerman\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a>\n</li><li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://www.globalscarves.com/\" target=\"_blank\" title=\"Global Scarves\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x600.png\" width=\"100\" height=\"None\" alt=\"Craig Zimmerman\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a> \n                \n                \n            </li>\n            \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://www.johan-sports.com/\" target=\"_blank\" title=\"Johan Performance Analytics\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/logo-light-600x303.png\" width=\"100\" height=\"None\" alt=\"Craig Zimmerman\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a> \n                \n                \n            </li>\n          \n            <li class=\"site-footer-sponsors-list-item\">\n              \n                <a href=\"http://www.nike.com/gb/en_gb/c/football\" target=\"_blank\" title=\"Nike Football\" class=\"site-footer-sponsors-list-item-link\">\n              \n                  <img src=\"@PROJECT_PATH@/assets/images/nike-logo-png-image-1-600x600.png\" width=\"100\" height=\"None\" alt=\"Nike\" class=\"site-footer-sponsors-list-item-logo\">\n              \n                </a>\n              \n            </li>\n        <div><a class=\"btn btn-primary mbr-editable-button\" href=\"sponsors.html\" code-editable-id=\"215\"> View All Sponsors</a></div>  \n        </ul>\n       \n      </section>\n    </div>\n  </footer>\n  \n",
+          "_customCSS": "@font-face {\n    font-family: 'DIN';\n    src: url(\"../fonts/pfdintextpro-regular-webfont.b28ad602205f.eot\");\n    src: url(\"../fonts/pfdintextpro-regular-webfont.b28ad602205f.eot\") format(\"embedded-opentype\"), url(\"../fonts/pfdintextpro-regular-webfont.969fbe76657e.woff2\") format(\"woff2\"), url(\"../fonts/pfdintextpro-regular-webfont.d6acde32843e.woff\") format(\"woff\"), url(\"../fonts/pfdintextpro-regular-webfont.b157037edc94.ttf\") format(\"truetype\");\n    font-weight: 400;\n    font-style: normal\n}\n@font-face {\n    font-family: 'DIN';\n    src: url(\"../fonts/pfdintextpro-italic-webfont.1fce7e6aa6e1.eot\");\n    src: url(\"../fonts/pfdintextpro-italic-webfont.1fce7e6aa6e1.eot\") format(\"embedded-opentype\"), url(\"../fonts/pfdintextpro-italic-webfont.0d20b7bf6d93.woff2\") format(\"woff2\"), url(\"../fonts/pfdintextpro-italic-webfont.988758775e64.woff\") format(\"woff\"), url(\"../fonts/pfdintextpro-italic-webfont.c66697d5ff86.ttf\") format(\"truetype\");\n    font-weight: 400;\n    font-style: italic\n}\n@font-face {\n    font-family: 'DIN';\n    src: url(\"../fonts/pfdintextpro-medium-webfont.6a6db385f99d.eot\");\n    src: url(\"../fonts/pfdintextpro-medium-webfont.6a6db385f99d.eot\") format(\"embedded-opentype\"), url(\"../fonts/pfdintextpro-medium-webfont.614d83d7355e.woff2\") format(\"woff2\"), url(\"../fonts/pfdintextpro-medium-webfont.56eee7dfd9fc.woff\") format(\"woff\"), url(\"../fonts/pfdintextpro-medium-webfont.953ffe0a9ab1.ttf\") format(\"truetype\");\n    font-weight: 600;\n    font-style: normal\n}\n@font-face {\n    font-family: 'DIN';\n    src: url(\"../fonts/pfdintextpro-meditalic-webfont.7131acaa2faa.eot\");\n    src: url(\"../fonts/pfdintextpro-meditalic-webfont.7131acaa2faa.eot\") format(\"embedded-opentype\"), url(\"../fonts/pfdintextpro-meditalic-webfont.0ccc8320a7da.woff2\") format(\"woff2\"), url(\"../fonts/pfdintextpro-meditalic-webfont.3ab3c3ae1909.woff\") format(\"woff\"), url(\"../fonts/pfdintextpro-meditalic-webfont.4c906df9ff54.ttf\") format(\"truetype\");\n    font-weight: 600;\n    font-style: italic\n}\nhtml {\n    font-family: sans-serif;\n    -ms-text-size-adjust: 100%;\n    -webkit-text-size-adjust: 100%\n}\nbody {\n    margin: 0\n}\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nmenu,\nnav,\nsection,\nsummary {\n    display: block\n}\naudio,\ncanvas,\nprogress,\nvideo {\n    display: inline-block;\n    vertical-align: baseline\n}\naudio:not([controls]) {\n    display: none;\n    height: 0\n}\n[hidden],\ntemplate {\n    display: none\n}\na {\n    background-color: #232323\n}\na:active,\na:hover {\n    outline: 0\n}\nabbr[title] {\n    border-bottom: 1px dotted\n}\nb,\nstrong {\n    font-weight: bold\n}\ndfn {\n    font-style: italic\n}\nh1 {\n    font-size: 2em;\n    margin: 0\n}\nmark {\n    background: #ff0;\n    color: #000\n}\nsmall {\n    font-size: 80%\n}\nsub,\nsup {\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n    vertical-align: baseline\n}\nsup {\n    top: -0.5em\n}\nsub {\n    bottom: -0.25em\n}\nimg {\n    border: 0\n}\nsvg:not(:root) {\n    overflow: hidden\n}\nfigure {\n    margin: 0\n}\nhr {\n    box-sizing: content-box;\n    height: 0\n}\npre {\n    overflow: auto\n}\ncode,\nkbd,\npre,\nsamp {\n    font-family: monospace, monospace;\n    font-size: 1em\n}\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n    color: black;\n    font: inherit;\n    margin: 0\n}\nbutton {\n    overflow: visible\n}\nbutton,\nselect {\n    text-transform: none\n}\nbutton,\nhtml input[type=\"button\"],\ninput[type=\"reset\"],\ninput[type=\"submit\"] {\n    -webkit-appearance: button;\n    cursor: pointer\n}\nbutton[disabled],\nhtml input[disabled] {\n    cursor: default\n}\nbutton::-moz-focus-inner,\ninput::-moz-focus-inner {\n    border: 0;\n    padding: 0\n}\ninput {\n    line-height: normal\n}\ninput[type=\"checkbox\"],\ninput[type=\"radio\"] {\n    box-sizing: border-box;\n    padding: 0\n}\ninput[type=\"number\"]::-webkit-inner-spin-button,\ninput[type=\"number\"]::-webkit-outer-spin-button {\n    height: auto\n}\ninput[type=\"search\"] {\n    -webkit-appearance: textfield;\n    box-sizing: content-box\n}\ninput[type=\"search\"]::-webkit-search-cancel-button,\ninput[type=\"search\"]::-webkit-search-decoration {\n    -webkit-appearance: none\n}\nfieldset {\n    border: 1px solid #c0c0c0;\n    margin: 0;\n    padding: 0\n}\nlegend {\n    border: 0;\n    padding: 0\n}\ntextarea {\n    overflow: auto\n}\noptgroup {\n    font-weight: bold\n}\ntable {\n    border-collapse: collapse;\n    border-spacing: 0\n}\ntd,\nth {\n    padding: 0\n}\nbody {\n    -webkit-: subpixel-antialiased;\n    color: #666;\n    font-family: \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif\n}\nbody * {\n    box-sizing: border-box\n}\n.sr-only {\n    border: 0;\n    clip: rect(0, 0, 0, 0);\n    height: 1px;\n    margin: 1px;\n    overflow: hidden;\n    padding: 0;\n    position: absolute;\n    width: 1px\n}\n.container {\n    margin: 0 auto;\n    max-width: 1440px;\n    padding: 0 0px;\n    position: relative;\n    z-index: 1\n}\n.container:after {\n    clear: both;\n    content: '';\n    display: table\n}\n@media (min-width: 860px) {\n    .row {\n        -webkit-box-align: stretch;\n        -ms-flex-align: stretch;\n        align-items: stretch;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-box-orient: horizontal;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -webkit-box-pack: justify;\n        -ms-flex-pack: justify;\n        justify-content: space-between\n    }\n}\n@media (min-width: 768px) {\n    .row-tablet {\n        -webkit-: stretch;\n        -ms-: stretch;\n        align-items: stretch;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-: horizontal;\n        -webkit-: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -webkit-: justify;\n        -ms-: justify;\n        justify-content: space-between\n    }\n}\n.row>:first-child {\n    -webkit-: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto\n}\n.main {\n    color: #333\n}\n.main .container {\n    padding-bottom: 0px;\n    padding-top: 0px\n}\n.main img {\n    height: auto;\n    max-width: 100%\n}\n.login .main {\n    -webkit-: center;\n    -ms-: center;\n    align-items: center;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-: center;\n    -ms-: center;\n    justify-content: center;\n    min-height: 60vh\n}\n.heroshot {\n    margin: 0 ;\n    position: relative;\n    z-index: 1\n}\n.heroshot:first-child {\n    margin-top: 0px\n}\n.heroshot-image {\n    display: block\n}\n.heroshot-caption {\n    background: rgba(0, 0, 0, 0.5);\n    bottom: 0;\n    color: #fff;\n    left: 0;\n    padding: 0px;\n    position: absolute;\n    right: 0;\n    z-index: 2\n}\n.heroshot-caption-link {\n    color: inherit;\n    display: block\n}\n.heroshot-caption-credit-only {\n    background: transparent;\n    color: #333;\n    position: static;\n    text-align: right\n}\n.heroshot-caption-credit-only>:first-child {\n    margin-top: 0\n}\n.heroshot-caption-credit-only>:last-child {\n    margin-bottom: 0\n}\n.heroshot-headline {\n    font-weight: 600;\n    margin: 0 auto\n}\n.heroshot-headline+.heroshot-description {\n    margin-top: 1em\n}\n.heroshot-description {\n    font-size: .77778rem;\n    margin: 0 auto\n}\n@media (min-width: 768px) {\n    .heroshot-description {\n        font-size: .88889rem\n    }\n}\n.livestream {\n    margin: 0;\n    padding:  0;\n    position: relative;\n    z-index: 1\n}\n.livestream iframe {\n    height: 100%;\n    left: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n    z-index: 1\n}\n.alert {\n    background: #e74c3c;\n    color: #fff;\n    margin: 0 auto;\n    max-width: 1440px;\n    padding: 0px 0px;\n    text-align: left\n}\n.alert:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.alert-action {\n    display: block;\n    margin-top: 1em;\n    text-align: center\n}\n@media (min-width: 768px) {\n    .alert-action {\n        float: right;\n        margin-bottom: -8px;\n        margin-top: -6px\n    }\n    .alert-action .btn {\n        font-size: .72222rem\n    }\n}\n.alert+.alert {\n    margin-top: 1em\n}\n@-webkit-keyframes button_icon_pulse {\n    from {\n        opacity: .7\n    }\n    to {\n        opacity: 1\n    }\n}\n@keyframes button_icon_pulse {\n    from {\n        opacity: .7\n    }\n    to {\n        opacity: 1\n    }\n}\n.btn,\n.btn-primary,\n.btn-secondary,\n.btn-accent,\n.btn-danger,\n.btn-link {\n    border: 0;\n    border-radius: 5px;\n    display: inline-block;\n    font-size: 1rem;\n    line-height: 1.3;\n    outline: none;\n    padding: 5px 20px;\n    text-align: center;\n    text-decoration: none;\n    -webkit-transition: .2s;\n    transition: .2s\n}\n.btn {\n    background-color: #95a5a6;\n    color: #fff\n}\n.btn:hover,\n.btn:active,\n.btn:focus {\n    background-color: #b1bdbd\n}\n.btn-primary {\n    background-color: #b8312f;\n    color: #fff\n}\n.btn-primary:hover,\n.btn-primary:active,\n.btn-primary:focus {\n    background-color: #8c2524\n}\n.btn-secondary {\n    background-color: #97a3a3;\n    color: #fff\n}\n.btn-secondary:hover,\n.btn-secondary:active,\n.btn-secondary:focus {\n    background-color: #96c8ea\n}\n.btn-accent {\n    background-color: #fdb525;\n    color: #fff\n}\n.btn-accent:hover,\n.btn-accent:active,\n.btn-accent:focus {\n    background-color: #fdc658\n}\n.btn-danger {\n    background-color: red;\n    color: #fff\n}\n.btn-danger:hover,\n.btn-danger:active,\n.btn-danger:focus {\n    background-color: #f33\n}\n.btn-link {\n    background-color: transparent;\n    color: #6bb2e2\n}\n.btn-link:hover,\n.btn-link:active,\n.btn-link:focus {\n    background-color: rgba(26, 26, 26, 0)\n}\n.btn-link:hover,\n.btn-link:active,\n.btn-link:focus {\n    color: #59b5f4\n}\n.btn-mini {\n    font-size: .6125rem;\n    padding: 8px\n}\n.btn[disabled] {\n    cursor: not-allowed;\n    opacity: .65\n}\n.btn+.btn {\n    margin-left: 1em\n}\n.btn .fa {\n    -webkit-animation-direction: alternate-reverse;\n    animation-direction: alternate-reverse;\n    -webkit-animation-duration: 2s;\n    animation-duration: 2s;\n    -webkit-animation-iteration-count: infinite;\n    animation-iteration-count: infinite;\n    -webkit-animation-name: button_icon_pulse;\n    animation-name: button_icon_pulse;\n    -webkit-animation-timing-function: linear;\n    animation-timing-function: linear;\n    margin-left: .5em\n}\n.site-menu-toggle {\n    color: #fff;\n    cursor: pointer;\n    font-size: 1.11111rem;\n    height: 24px;\n    margin-top: -12px;\n    position: absolute;\n    right: 20px;\n    top: 50%;\n    -webkit-transform: rotate(0deg);\n    transform: rotate(0deg);\n    -webkit-transition: .5s ease-in-out;\n    transition: .5s ease-in-out;\n    width: 30px;\n    z-index: 1\n}\n@media (min-width: 768px) {\n    .site-menu-toggle {\n        display: none\n    }\n}\n.site-menu-toggle-bar {\n    background: #fff;\n    display: block;\n    height: 4px;\n    opacity: 1;\n    position: absolute;\n    -webkit-transform: rotate(0deg);\n    transform: rotate(0deg);\n    -webkit-transition: .25s ease-in-out;\n    transition: .25s ease-in-out;\n    width: 50%\n}\n.site-menu-toggle-bar:nth-child(even) {\n    left: 50%\n}\n.site-menu-toggle-bar:nth-child(odd) {\n    left: 0\n}\n.site-menu-toggle-bar:nth-child(1),\n.site-menu-toggle-bar:nth-child(2) {\n    top: 0\n}\n.site-menu-toggle-bar:nth-child(3),\n.site-menu-toggle-bar:nth-child(4) {\n    top: 10px\n}\n.site-menu-toggle-bar:nth-child(5),\n.site-menu-toggle-bar:nth-child(6) {\n    top: 20px\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(1),\n.show-site-nav .site-menu-toggle-bar:nth-child(6),\n.show-site-menu .site-menu-toggle-bar:nth-child(1),\n.show-site-menu .site-menu-toggle-bar:nth-child(6) {\n    -webkit-transform: rotate(45deg);\n    transform: rotate(45deg)\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(2),\n.show-site-nav .site-menu-toggle-bar:nth-child(5),\n.show-site-menu .site-menu-toggle-bar:nth-child(2),\n.show-site-menu .site-menu-toggle-bar:nth-child(5) {\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg)\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(1),\n.show-site-menu .site-menu-toggle-bar:nth-child(1) {\n    left: 5px;\n    top: 8px\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(2),\n.show-site-menu .site-menu-toggle-bar:nth-child(2) {\n    left: calc(50% - 5px);\n    top: 8px\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(3),\n.show-site-menu .site-menu-toggle-bar:nth-child(3) {\n    left: -50%;\n    opacity: 0\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(4),\n.show-site-menu .site-menu-toggle-bar:nth-child(4) {\n    left: 100%;\n    opacity: 0\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(5),\n.show-site-menu .site-menu-toggle-bar:nth-child(5) {\n    left: 5px;\n    top: 13px\n}\n.show-site-nav .site-menu-toggle-bar:nth-child(6),\n.show-site-menu .site-menu-toggle-bar:nth-child(6) {\n    left: calc(50% - 5px);\n    top: 13px\n}\n.form {\n    display: block;\n    font-size: 1rem;\n    line-height: 1.4\n}\n.form-legend {\n    color: #102c52;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    margin-top: 0;\n    text-transform: uppercase\n}\n.form-fields {\n    list-style: none;\n    margin: 0;\n    padding: 0\n}\n.form-fields:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.form-fields+.help-text {\n    margin-top: 1.5em\n}\n.form-field,\n.form-buttons {\n    margin: 1.5em 0 0\n}\n.form-field:after,\n.form-buttons:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.form-field:first-child,\n.form-buttons:first-child {\n    margin-top: 0\n}\n.form-field {\n    font-family: \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif\n}\n.form-help {\n    display: block;\n    font-family: \"Georgia\", serif;\n    font-style: italic;\n    margin: .5em auto 0;\n    opacity: .75\n}\n.form-buttons {\n    text-align: right\n}\n.form-buttons .form-help {\n    display: block;\n    font-size: .66667rem;\n    font-style: italic;\n    margin-bottom: .5em;\n    text-align: left\n}\n.form-buttons .btn-link {\n    border-left-width: 0;\n    border-right-width: 0;\n    float: left;\n    padding-left: 0;\n    padding-right: 0\n}\n.form label {\n    display: block;\n    margin: 0 0 .25em;\n    padding: 0 0 0 0px;\n    text-align: left\n}\n.form input[type=\"color\"],\n.form input[type=\"date\"],\n.form input[type=\"datetime\"],\n.form input[type=\"datetime-local\"],\n.form input[type=\"email\"],\n.form input[type=\"month\"],\n.form input[type=\"number\"],\n.form input[type=\"password\"],\n.form input[type=\"search\"],\n.form input[type=\"tel\"],\n.form input[type=\"text\"],\n.form input[type=\"time\"],\n.form input[type=\"url\"],\n.form input[type=\"week\"],\n.form input:not([type]),\n.form textarea,\n.form textarea {\n    background: #f3f3f3;\n    border: 1px solid #b8b8b8;\n    border-radius: 4px;\n    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px 1px #fff;\n    color: #333;\n    font-family: \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    max-width: 100%;\n    outline: 0;\n    padding: 0px;\n    -webkit-transition: border-color .15s linear, box-shadow .15s linear, background-color .15s linear;\n    transition: border-color .15s linear, box-shadow .15s linear, background-color .15s linear;\n    width: 100%\n}\n.form input[type=\"color\"]::-webkit-input-placeholder,\n.form input[type=\"date\"]::-webkit-input-placeholder,\n.form input[type=\"datetime\"]::-webkit-input-placeholder,\n.form input[type=\"datetime-local\"]::-webkit-input-placeholder,\n.form input[type=\"email\"]::-webkit-input-placeholder,\n.form input[type=\"month\"]::-webkit-input-placeholder,\n.form input[type=\"number\"]::-webkit-input-placeholder,\n.form input[type=\"password\"]::-webkit-input-placeholder,\n.form input[type=\"search\"]::-webkit-input-placeholder,\n.form input[type=\"tel\"]::-webkit-input-placeholder,\n.form input[type=\"text\"]::-webkit-input-placeholder,\n.form input[type=\"time\"]::-webkit-input-placeholder,\n.form input[type=\"url\"]::-webkit-input-placeholder,\n.form input[type=\"week\"]::-webkit-input-placeholder,\n.form input:not([type])::-webkit-input-placeholder,\n.form textarea::-webkit-input-placeholder,\n.form textarea::-webkit-input-placeholder {\n    color: #555\n}\n.form input[type=\"color\"]::-moz-placeholder,\n.form input[type=\"date\"]::-moz-placeholder,\n.form input[type=\"datetime\"]::-moz-placeholder,\n.form input[type=\"datetime-local\"]::-moz-placeholder,\n.form input[type=\"email\"]::-moz-placeholder,\n.form input[type=\"month\"]::-moz-placeholder,\n.form input[type=\"number\"]::-moz-placeholder,\n.form input[type=\"password\"]::-moz-placeholder,\n.form input[type=\"search\"]::-moz-placeholder,\n.form input[type=\"tel\"]::-moz-placeholder,\n.form input[type=\"text\"]::-moz-placeholder,\n.form input[type=\"time\"]::-moz-placeholder,\n.form input[type=\"url\"]::-moz-placeholder,\n.form input[type=\"week\"]::-moz-placeholder,\n.form input:not([type])::-moz-placeholder,\n.form textarea::-moz-placeholder,\n.form textarea::-moz-placeholder {\n    color: #555\n}\n.form input[type=\"color\"]:-moz-placeholder,\n.form input[type=\"date\"]:-moz-placeholder,\n.form input[type=\"datetime\"]:-moz-placeholder,\n.form input[type=\"datetime-local\"]:-moz-placeholder,\n.form input[type=\"email\"]:-moz-placeholder,\n.form input[type=\"month\"]:-moz-placeholder,\n.form input[type=\"number\"]:-moz-placeholder,\n.form input[type=\"password\"]:-moz-placeholder,\n.form input[type=\"search\"]:-moz-placeholder,\n.form input[type=\"tel\"]:-moz-placeholder,\n.form input[type=\"text\"]:-moz-placeholder,\n.form input[type=\"time\"]:-moz-placeholder,\n.form input[type=\"url\"]:-moz-placeholder,\n.form input[type=\"week\"]:-moz-placeholder,\n.form input:not([type]):-moz-placeholder,\n.form textarea:-moz-placeholder,\n.form textarea:-moz-placeholder {\n    color: #555\n}\n.form input[type=\"color\"]:-ms-input-placeholder,\n.form input[type=\"date\"]:-ms-input-placeholder,\n.form input[type=\"datetime\"]:-ms-input-placeholder,\n.form input[type=\"datetime-local\"]:-ms-input-placeholder,\n.form input[type=\"email\"]:-ms-input-placeholder,\n.form input[type=\"month\"]:-ms-input-placeholder,\n.form input[type=\"number\"]:-ms-input-placeholder,\n.form input[type=\"password\"]:-ms-input-placeholder,\n.form input[type=\"search\"]:-ms-input-placeholder,\n.form input[type=\"tel\"]:-ms-input-placeholder,\n.form input[type=\"text\"]:-ms-input-placeholder,\n.form input[type=\"time\"]:-ms-input-placeholder,\n.form input[type=\"url\"]:-ms-input-placeholder,\n.form input[type=\"week\"]:-ms-input-placeholder,\n.form input:not([type]):-ms-input-placeholder,\n.form textarea:-ms-input-placeholder,\n.form textarea:-ms-input-placeholder {\n    color: #555\n}\n.form input[type=\"color\"]:focus,\n.form input[type=\"date\"]:focus,\n.form input[type=\"datetime\"]:focus,\n.form input[type=\"datetime-local\"]:focus,\n.form input[type=\"email\"]:focus,\n.form input[type=\"month\"]:focus,\n.form input[type=\"number\"]:focus,\n.form input[type=\"password\"]:focus,\n.form input[type=\"search\"]:focus,\n.form input[type=\"tel\"]:focus,\n.form input[type=\"text\"]:focus,\n.form input[type=\"time\"]:focus,\n.form input[type=\"url\"]:focus,\n.form input[type=\"week\"]:focus,\n.form input:not([type]):focus,\n.form textarea:focus,\n.form textarea:focus {\n    background: #fff;\n    border-color: rgba(41, 161, 231, 0.6);\n    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 5px rgba(41, 161, 231, 0.4);\n    color: #333\n}\n.form input[type=\"color\"]::-webkit-input-placeholder,\n.form input[type=\"date\"]::-webkit-input-placeholder,\n.form input[type=\"datetime\"]::-webkit-input-placeholder,\n.form input[type=\"datetime-local\"]::-webkit-input-placeholder,\n.form input[type=\"email\"]::-webkit-input-placeholder,\n.form input[type=\"month\"]::-webkit-input-placeholder,\n.form input[type=\"number\"]::-webkit-input-placeholder,\n.form input[type=\"password\"]::-webkit-input-placeholder,\n.form input[type=\"search\"]::-webkit-input-placeholder,\n.form input[type=\"tel\"]::-webkit-input-placeholder,\n.form input[type=\"text\"]::-webkit-input-placeholder,\n.form input[type=\"time\"]::-webkit-input-placeholder,\n.form input[type=\"url\"]::-webkit-input-placeholder,\n.form input[type=\"week\"]::-webkit-input-placeholder,\n.form input:not([type])::-webkit-input-placeholder,\n.form textarea::-webkit-input-placeholder,\n.form textarea::-webkit-input-placeholder {\n    color: rgba(51, 51, 51, 0.5)\n}\n.form input[type=\"color\"]::-moz-placeholder,\n.form input[type=\"date\"]::-moz-placeholder,\n.form input[type=\"datetime\"]::-moz-placeholder,\n.form input[type=\"datetime-local\"]::-moz-placeholder,\n.form input[type=\"email\"]::-moz-placeholder,\n.form input[type=\"month\"]::-moz-placeholder,\n.form input[type=\"number\"]::-moz-placeholder,\n.form input[type=\"password\"]::-moz-placeholder,\n.form input[type=\"search\"]::-moz-placeholder,\n.form input[type=\"tel\"]::-moz-placeholder,\n.form input[type=\"text\"]::-moz-placeholder,\n.form input[type=\"time\"]::-moz-placeholder,\n.form input[type=\"url\"]::-moz-placeholder,\n.form input[type=\"week\"]::-moz-placeholder,\n.form input:not([type])::-moz-placeholder,\n.form textarea::-moz-placeholder,\n.form textarea::-moz-placeholder {\n    color: rgba(51, 51, 51, 0.5)\n}\n.form input[type=\"color\"]:-ms-input-placeholder,\n.form input[type=\"date\"]:-ms-input-placeholder,\n.form input[type=\"datetime\"]:-ms-input-placeholder,\n.form input[type=\"datetime-local\"]:-ms-input-placeholder,\n.form input[type=\"email\"]:-ms-input-placeholder,\n.form input[type=\"month\"]:-ms-input-placeholder,\n.form input[type=\"number\"]:-ms-input-placeholder,\n.form input[type=\"password\"]:-ms-input-placeholder,\n.form input[type=\"search\"]:-ms-input-placeholder,\n.form input[type=\"tel\"]:-ms-input-placeholder,\n.form input[type=\"text\"]:-ms-input-placeholder,\n.form input[type=\"time\"]:-ms-input-placeholder,\n.form input[type=\"url\"]:-ms-input-placeholder,\n.form input[type=\"week\"]:-ms-input-placeholder,\n.form input:not([type]):-ms-input-placeholder,\n.form textarea:-ms-input-placeholder,\n.form textarea:-ms-input-placeholder {\n    color: rgba(51, 51, 51, 0.5)\n}\n.form input[type=\"color\"]::placeholder,\n.form input[type=\"date\"]::placeholder,\n.form input[type=\"datetime\"]::placeholder,\n.form input[type=\"datetime-local\"]::placeholder,\n.form input[type=\"email\"]::placeholder,\n.form input[type=\"month\"]::placeholder,\n.form input[type=\"number\"]::placeholder,\n.form input[type=\"password\"]::placeholder,\n.form input[type=\"search\"]::placeholder,\n.form input[type=\"tel\"]::placeholder,\n.form input[type=\"text\"]::placeholder,\n.form input[type=\"time\"]::placeholder,\n.form input[type=\"url\"]::placeholder,\n.form input[type=\"week\"]::placeholder,\n.form input:not([type])::placeholder,\n.form textarea::placeholder,\n.form textarea::placeholder {\n    color: rgba(51, 51, 51, 0.5)\n}\n.form select {\n    appearance: menulist-button;\n    border-color: #b8b8b8;\n    font-family: \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    height: 2.66667rem;\n    max-width: 100%\n}\n.form select[multiple] {\n    appearance: listbox;\n    background: #f3f3f3;\n    border: 1px solid #b8b8b8;\n    border-radius: 4px;\n    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px 1px #fff;\n    height: auto\n}\n.form select[multiple] option {\n    padding: 0px\n}\n.form input[name='zip'],\n.form input[name='zip_code'],\n.form input[name='postalCode'] {\n    width: 6em\n}\n[lang='es-US'] .form input[name='zip'],\n.form input[name='zip'] [lang='es_US'],\n[lang='es-US'] .form input[name='zip_code'],\n.form input[name='zip_code'] [lang='es_US'],\n[lang='es-US'] .form input[name='postalCode'],\n.form input[name='postalCode'] [lang='es_US'] {\n    width: 9em\n}\n.form fieldset {\n    border: 0;\n    margin: 1em auto;\n    padding: 0\n}\n.form-field-radio-select ul,\n.form-field-choice-with-other ul {\n    list-style: none;\n    margin: 0;\n    padding: 0\n}\n.form-field-radio-select li,\n.form-field-choice-with-other li {\n    margin: .5em auto\n}\n.form-field-error,\n.form .error-text {\n    color: #e74c3c\n}\n.form .field-error input[type=\"color\"],\n.form .field-error input[type=\"date\"],\n.form .field-error input[type=\"datetime\"],\n.form .field-error input[type=\"datetime-local\"],\n.form .field-error input[type=\"email\"],\n.form .field-error input[type=\"month\"],\n.form .field-error input[type=\"number\"],\n.form .field-error input[type=\"password\"],\n.form .field-error input[type=\"search\"],\n.form .field-error input[type=\"tel\"],\n.form .field-error input[type=\"text\"],\n.form .field-error input[type=\"time\"],\n.form .field-error input[type=\"url\"],\n.form .field-error input[type=\"week\"],\n.form .field-error input:not([type]),\n.form .field-error textarea,\n.form .field-error textarea {\n    border-color: rgba(231, 76, 60, 0.8);\n    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 5px rgba(231, 76, 60, 0.4)\n}\n.form .error-text {\n    display: block;\n    margin: .25em auto 0;\n    padding-left: 4px\n}\n.form-inline {\n    text-align: center\n}\n.form-inline .form-fields {\n    display: inline-block;\n    margin: -1em auto\n}\n@media (min-width: 960px) {\n    .form-inline .form-legend {\n        display: inline-block\n    }\n    .form-inline .form-legend+.form-fields {\n        margin-left: .5em\n    }\n}\n.form-inline .form-field,\n.form-inline .form-buttons {\n    display: inline-block;\n    margin: 1em .5em\n}\n.form-inline .btn {\n    min-width: 156px\n}\n.form-inline select {\n    width: 170px\n}\n.form-inline input[type=\"color\"],\n.form-inline input[type=\"date\"],\n.form-inline input[type=\"datetime\"],\n.form-inline input[type=\"datetime-local\"],\n.form-inline input[type=\"email\"],\n.form-inline input[type=\"month\"],\n.form-inline input[type=\"number\"],\n.form-inline input[type=\"password\"],\n.form-inline input[type=\"search\"],\n.form-inline input[type=\"tel\"],\n.form-inline input[type=\"text\"],\n.form-inline input[type=\"time\"],\n.form-inline input[type=\"url\"],\n.form-inline input[type=\"week\"],\n.form-inline input:not([type]),\n.form-inline textarea {\n    width: 156px\n}\n.form-login {\n    background: #fff;\n    margin: 20px auto;\n    padding: 0px;\n    width: 300px\n}\n.post-future,\n.post-draft,\n.post-future-draft {\n    background: #fefaf3\n}\n.post-viewability {\n    background: #f39c12;\n    color: #fff;\n    display: block;\n    margin: 0;\n    padding: 10px;\n    text-transform: uppercase\n}\n.post-image {\n    margin: 0 0 1rem;\n    min-width: 100%;\n    text-align: center\n}\n.post-image img {\n    display: block;\n    margin: 0 auto\n}\n.post-image-caption {\n    color: #707070;\n    font-size: .72222rem;\n    margin: 5px 0 0\n}\n@media (min-width: 768px) {\n    .post-image-caption {\n        text-align: left\n    }\n}\n.post-title,\n.post-author-published {\n    margin: .25em auto 0\n}\n.post-title {\n    font-weight: 400;\n    margin-top: 0\n}\n.main .post-title a:not(.btn) {\n    color: #102c52\n}\n.main .post-title a:not(.btn):hover,\n.main .post-title a:not(.btn):active,\n.main .post-title a:not(.btn):focus {\n    color: #6bb2e2\n}\n.post-author-published {\n    color: #999;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-size: .72222rem;\n    text-transform: uppercase\n}\n.post-header {\n    margin: 0 auto 1em\n}\n.post-excerpt {\n    font-size: .88889rem;\n    font-weight: 300;\n    line-height: 1.4\n}\n.post-excerpt-read-more {\n    margin: 0\n}\n.post-excerpt-read-more .btn {\n    font-size: .875rem;\n    padding: 6px 12px 4px\n}\n.post-link-card {\n    border: 1px solid rgba(0, 0, 0, 0.1);\n    margin: 1em auto\n}\n.post-link-card:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.post-link-card-link {\n    display: block;\n    padding: 20px\n}\n@media (min-width: 768px) {\n    .post-link-card-link {\n        -webkit-: stretch;\n        -ms-: stretch;\n        align-items: stretch;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-: justify;\n        -ms-: justify;\n        justify-content: space-between\n    }\n}\n.post-link-card-image-wrapper {\n    background-position: 50% 50%;\n    background-repeat: no-repeat;\n    background-size: cover;\n    display: block;\n    -webkit-: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    margin: 0 auto 1rem\n}\n@media (min-width: 768px) {\n    .post-link-card-image-wrapper {\n        -webkit-: center;\n        -ms-: center;\n        align-items: center;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        margin: -20px 20px -20px -20px;\n        max-height: 240px;\n        width: 240px\n    }\n    .post-link-card-image-wrapper img {\n        display: none\n    }\n}\n.post-link-card-content {\n    color: #333;\n    font-size: 1rem;\n    font-weight: 300;\n    line-height: 1.4\n}\n.post-link-card-title {\n    color: #102c52;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-size: 1.33333rem;\n    font-weight: 400\n}\n.post-link-card-title,\n.post-link-card-description,\n.post-link-card-source {\n    display: block\n}\n.post-link-card-description,\n.post-link-card-source {\n    margin-top: 1em\n}\n.post-link-card-source {\n    font-size: .77778rem;\n    text-transform: uppercase\n}\n.post-article-single .post-image {\n    margin: 0 -20px 20px\n}\n.post-article-single .post-image-caption {\n    padding-left: 20px;\n    padding-right: 20px\n}\n.home .post-feed h1 {\n    display: none\n}\n.post-feed .post {\n    -webkit-box-align: stretch;\n    -ms-flex-align: stretch;\n    align-items: stretch;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: row;\n    flex-direction: row;\n    -ms-flex-wrap: nowrap;\n    flex-wrap: nowrap;\n    -webkit-box-pack: start;\n    -ms-flex-pack: start;\n    justify-content: flex-start;\n    margin-top: 2em\n}\n.post-feed .post-image {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    margin-right: 20px;\n    min-width: 0;\n    width: 80px\n}\n.post-feed .post-image img {\n    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);\n    -webkit-transition: .2s;\n    transition: .2s\n}\n@media (min-width: 768px) {\n    .post-feed .post-image {\n        width: 160px\n    }\n}\n.post-feed .post:hover .post-image img {\n    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);\n    -webkit-transform: scale(1.05);\n    transform: scale(1.05)\n}\n.post-feed .post-article .post-viewability {\n    width: 100%\n}\n.post-feed .post-article .post-article-content {\n    -webkit-box-flex: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto\n}\n.post-feed .post-link-card {\n    margin: 0\n}\n.pagination {\n    color: #999;\n    list-style: none;\n    margin: 1em auto;\n    padding: 0;\n    text-align: center\n}\n.pagination-item {\n    display: inline-block;\n    padding: 0 .5em;\n    vertical-align: top\n}\n.pagination-item>span,\n.pagination-item>a {\n    display: block;\n    padding: .25em .5em\n}\n.pagination-page {\n    color: #333\n}\n\n\n@media (min-width: 960px) {\n    .sidebar {\n        -webkit-: 0;\n        -ms-flex: 0 0 auto;\n        flex: 0 0 auto;\n        margin-left: 20px;\n        margin-top: 0;\n        padding: 10px;\n        width: 340px\n    }\n\n}\n.sidebar .aside-label {\n    color: #fff;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    margin: 0 0 10px;\n    text-transform: uppercase\n}\n.sidebar .aside-label a:not(.btn) {\n    color: inherit\n}\n.sidebar .aside-label a:not(.btn):hover,\n.sidebar .aside-label a:not(.btn):active,\n.sidebar .aside-label a:not(.btn):focus {\n    color: inherit\n}\n.sidebar .aside-content {\n    background: #fff;\n    color: #333\n}\n.sidebar .aside .table {\n    font-size: .72222rem\n}\n.sidebar .aside .table th,\n.sidebar .aside .table td {\n    padding: .5em .25em\n}\n@media (min-width: 960px) {\n    .sidebar .aside .table th,\n    .sidebar .aside .table td {\n        padding: .5em 1em\n    }\n}\n.sidebar .aside-social .aside-content {\n    padding: 10px;\n    text-align: center\n}\n.sidebar .aside-social .aside-content a {\n    margin: 0 10px\n}\n.sidebar .aside-social .aside-content .fa {\n    font-size: 1.77778rem\n}\n.sidebar .aside-league-standings a:not([class]) {\n    color: inherit\n}\n.sidebar .aside-league-standings .table th,\n.sidebar .aside-league-standings .table td {\n    padding: .5em .25em\n}\n@media (min-width: 960px) {\n    .sidebar .aside-league-standings .table th,\n    .sidebar .aside-league-standings .table td {\n        padding: .5em .25em\n    }\n    .sidebar .aside-league-standings .table th:first-child,\n    .sidebar .aside-league-standings .table td:first-child {\n        padding-left: 10px\n    }\n    .sidebar .aside-league-standings .table th:last-child,\n    .sidebar .aside-league-standings .table td:last-child {\n        padding-right: 10px\n    }\n}\n.sidebar .aside-league-standings .table thead th {\n    text-align: right\n}\n.sidebar .aside-tweets .aside-content {\n    min-height: 480px;\n    text-align: center\n}\n.sidebar-sponsor-ad {\n    display: block;\n    margin: 0 0 0px\n}\n.sidebar-sponsor-ad img {\n    display: block;\n    margin: 0 auto\n}\n.card {\n    background: #232323;\n    color: #fff;\n    padding: 10px\n}\n.card-label {\n    margin: 0 0 10px;\n    text-align: center;\n    text-transform: uppercase\n}\n.card-content {\n    background: #fff;\n    color: #102c52;\n    padding: 10px\n}\n.match-card {\n    line-height: 1.4;\n    text-align: center\n}\n.match-card:after {\n    clear: both;\n    content: '';\n    display: table\n}\n@media (min-width: 960px) {\n    .match-card-header {\n        -webkit-: center;\n        -ms-: center;\n        align-items: center;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-: horizontal;\n        -webkit-: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -webkit-: justify;\n        -ms-: justify;\n        justify-content: space-between\n    }\n}\n.match-card-label {\n    font-weight: 600\n}\n.match-card-image-wrapper {\n    display: inline-block;\n    max-width: 64px;\n    vertical-align: top\n}\n.match-card-date {\n    display: inline-block;\n    margin: 0 10px;\n    white-space: nowrap\n}\n.match-card-location {\n    clear: both;\n    text-align: center\n}\n.match-card-location-driving-estimate {\n    color: #8896a9;\n    display: block;\n    font-size: .77778rem;\n    margin-top: .5em\n}\n.match-card-buttons {\n    margin-bottom: -10px;\n    text-align: center\n}\n.match-card-buttons .btn {\n    margin: 10px 0\n}\n.table {\n    color: #333;\n    width: 100%\n}\n.table caption {\n    color: #102c52;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-weight: 400;\n    padding: .5em 1em;\n    text-transform: uppercase\n}\n.table th,\n.table td {\n    padding: .5em 1em\n}\n.table .number {\n    -webkit-font-feature-settings: 'tnum';\n    -moz-font-feature-settings: 'tnum';\n    font-feature-settings: 'tnum';\n    text-align: right\n}\n.table thead th,\n.table thead td {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    text-align: center\n}\n.table thead tr {\n    background: #fdb525\n}\n.table tbody th,\n.table tfoot th {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-weight: 300;\n    text-align: left\n}\n.table tfoot {\n    border-top: 2px solid #fdb525\n}\n.table tfoot tr:only-child {\n    background: #feda92\n}\n.table tfoot th {\n    font-weight: 600\n}\n.table-striped tbody tr,\n.table-striped tfoot tr {\n    -webkit-transition: .2s;\n    transition: .2s\n}\n.table-striped tbody tr:nth-child(odd),\n.table-striped tfoot tr:nth-child(odd) {\n    background: #fff\n}\n.table-striped tbody tr:nth-child(even),\n.table-striped tfoot tr:nth-child(even) {\n    background: #fff8e9\n}\n.table-striped tbody tr:hover,\n.table-striped tbody tr:active,\n.table-striped tbody tr:focus,\n.table-striped tfoot tr:hover,\n.table-striped tfoot tr:active,\n.table-striped tfoot tr:focus {\n    background: #feda92\n}\n.sponsors-section {\n    margin: 40px auto\n}\n.sponsors-section:first-of-type {\n    margin-top: 0\n}\n.sponsors-section-label {\n    color: #102c52;\n    margin: 0;\n    text-transform: uppercase\n}\n@media (min-width: 768px) {\n    .sponsors-section-label {\n        -webkit-: 1;\n        -ms-flex: 1 0 auto;\n        flex: 1 0 auto;\n        width: 100%\n    }\n}\n.sponsors-section-title-sponsor .sponsors-list-item {\n    width: 100%\n}\n.sponsors-list {\n    -webkit-: stretch;\n    -ms-: stretch;\n    align-items: stretch;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-: start;\n    -ms-: start;\n    justify-content: flex-start;\n    margin: 0 -8px\n}\n.sponsors-list-item {\n    background: #fff;\n    border-radius: 2px;\n    box-shadow: 0 0px 0px 0 rgba(60, 60, 60, 0.14), 0 3px 1px -2px rgba(60, 60, 60, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);\n    -webkit-: 1;\n    -ms-flex: 1 0 auto;\n    flex: 1 0 auto;\n    margin: 8px;\n    padding: 16px;\n    text-align: center;\n    -webkit-transition: .2s;\n    transition: .2s\n}\n.sponsors-list-item:hover,\n.sponsors-list-item:active,\n.sponsors-list-item:focus {\n    box-shadow: 0 14px 28px rgba(60, 60, 60, 0.25), 0 10px 10px rgba(60, 60, 60, 0.22)\n}\n.sponsors-list-item:hover .btn-secondary,\n.sponsors-list-item:active .btn-secondary,\n.sponsors-list-item:focus .btn-secondary {\n    background: #96c8ea\n}\n@media (min-width: 740px) {\n    .sponsors-list-item {\n        -webkit-: 0;\n        -ms-flex: 0 1 auto;\n        flex: 0 1 auto;\n        width: calc(50% - 16px)\n    }\n}\n@media (min-width: 1200px) {\n    .sponsors-section-other-sponsors .sponsors-list-item {\n        width: calc(33% - 16px)\n    }\n}\n.sponsors-list-item-logo {\n    background: #fff;\n    display: block;\n    margin: 0 auto\n}\n.sponsors-list-item-logo img {\n    display: block;\n    margin: 0 auto\n}\n.sponsors-list-item-name {\n    font-size: 1.33333rem;\n    margin: .5em auto 0\n}\n.sponsors-list-item-link {\n    display: block;\n    margin: -16px;\n    padding: 16px\n}\n.sponsors-list-item-actions {\n    margin: 16px 0 0\n}\n@media (min-width: 768px) and (max-width: 959px) {\n    .sponsors-list-item-actions {\n        font-size: .77778rem\n    }\n}\n.sponsors-list-item-actions .fa {\n    font-size: 75%\n}\n.team-roster {\n    -webkit-box-flex: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto\n}\n.team-roster-section {\n    margin: 40px 0\n}\n.team-roster-section:first-of-type {\n    margin-top: 0\n}\n.team-roster-section-label {\n    color: #6bb2e2;\n    font-weight: 400;\n    text-transform: uppercase\n}\n.team-roster-list {\n    -webkit-box-align: stretch;\n    -ms-flex-align: stretch;\n    align-items: stretch;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: row;\n    flex-direction: row;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-pack: start;\n    -ms-flex-pack: start;\n    justify-content: flex-start;\n    margin: -8px\n}\n.team-roster-list-item {\n    margin: 0\n}\n.team-roster-profile {\n    border-radius: 2px;\n    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);\n    background: #fff;\n    cursor: pointer;\n    display: block;\n    -webkit-box-flex: 0;\n    -ms-flex: 0 1 auto;\n    flex: 0 1 auto;\n    margin: 8px;\n    overflow: hidden;\n    position: relative;\n    width: 250px;\n    z-index: 1\n}\n.team-roster-profile:hover,\n.team-roster-profile:active,\n.team-roster-profile:focus {\n    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22)\n}\n@media (min-width: 768px) {\n    .team-roster-profile {\n        width: calc(50% - 16px)\n    }\n}\n@media (min-width: 960px) {\n    .team-roster-profile {\n        width: calc(33.33% - 16px)\n    }\n}\n.team-roster-jersey-number {\n    float: right;\n    margin-left: 10px;\n    margin-right: -4px;\n    position: relative;\n    z-index: 2\n}\n.team-roster-image-wrapper {\n    background: url(\"data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0iMTc5MiIgaGVpZ2h0PSIxNzkyIiB2aWV3Qm94PSIwIDAgMTc5MiAxNzkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzdHlsZT5ALXdlYmtpdC1rZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IEBrZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IC5mdXRib2wgeyAtd2Via2l0LWFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IGFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IC13ZWJraXQtYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgLXdlYmtpdC1hbmltYXRpb24tdGltaW5nLWZ1bmN0aW9uOiBsaW5lYXI7IGFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGxpbmVhcjsgLXdlYmtpdC1hbmltYXRpb24taXRlcmF0aW9uLWNvdW50OiBpbmZpbml0ZTsgYW5pbWF0aW9uLWl0ZXJhdGlvbi1jb3VudDogaW5maW5pdGU7IC13ZWJraXQtdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgfTwvc3R5bGU+PHBhdGggZmlsbD0iI2ZkYjUyNSIgY2xhc3M9ImZ1dGJvbCIgZD0iTTYwOSA4MTZsMjg3LTIwOCAyODcgMjA4LTEwOSAzMzZINzE5ek04OTYgMHExODIgMCAzNDggNzF0Mjg2IDE5MSAxOTEgMjg2IDcxIDM0OC03MSAzNDgtMTkxIDI4Ni0yODYgMTkxLTM0OCA3MS0zNDgtNzEtMjg2LTE5MS0xOTEtMjg2VDAgODk2dDcxLTM0OCAxOTEtMjg2VDU0OCA3MSA4OTYgMHptNjE5IDEzNTBxMTQ5LTIwMyAxNDktNDU0di0zbC0xMDIgODktMjQwLTIyNCA2My0zMjMgMTM0IDEycS0xNTAtMjA2LTM4OS0yODJsNTMgMTI0LTI4NyAxNTktMjg3LTE1OSA1My0xMjRxLTIzOSA3Ni0zODkgMjgybDEzNS0xMiA2MiAzMjMtMjQwIDIyNC0xMDItODl2M3EwIDI1MSAxNDkgNDU0bDMwLTEzMiAzMjYgNDAgMTM5IDI5OC0xMTYgNjlxMTE3IDM5IDI0MCAzOXQyNDAtMzlsLTExNi02OSAxMzktMjk4IDMyNi00MHoiLz48L3N2Zz4=\") no-repeat 50% 50%;\n    background-size: 64px 64px;\n    display: block;\n    padding-bottom: 100%;\n    position: relative;\n    width: 250px;\n    z-index: 1\n}\n.loaded .team-roster-image-wrapper {\n    background: transparent\n}\n@media (min-width: 768px) {\n    .team-roster-image-wrapper {\n        width: 100%\n    }\n}\n.team-roster-image {\n    height: 100%;\n    left: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n    z-index: 1\n}\n.team-roster-caption {\n    padding: 16px\n}\n.team-roster-name {\n    color: #102c52;\n    font-size: 1.33333rem;\n    font-weight: 600;\n    margin: 0\n}\n.team-roster-coach-position {\n    color: #102c52;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    text-transform: uppercase\n}\n.team-roster-previous-teams {\n    color: #808fa2;\n    font-size: .77778rem;\n    font-style: italic;\n    line-height: 1.4;\n    margin: 6px auto 0\n}\n.team-roster-jersey-number,\n.team-profile-jersey-number {\n    background: #102c52;\n    border-radius: 50%;\n    color: #fff;\n    display: block;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-size: 1.33333rem;\n    height: 48px;\n    line-height: 50px;\n    text-align: center;\n    width: 48px\n}\n.team-profile {\n    position: relative;\n    z-index: 1\n}\n@media (min-width: 1200px) {\n    .team-profile {\n        -webkit-box-align: stretch;\n        -ms-flex-align: stretch;\n        align-items: stretch;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-box-orient: horizontal;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -webkit-box-pack: justify;\n        -ms-flex-pack: justify;\n        justify-content: space-between\n    }\n}\n.team-profile-header {\n    padding-right: 58px;\n    position: relative;\n    z-index: 1\n}\n.team-profile-name {\n    color: #102c52;\n    line-height: 48px;\n    margin-bottom: 0;\n    text-transform: uppercase\n}\n.heroshot .team-profile-name {\n    color: #fdb525;\n    display: inline-block;\n    margin-right: 20px\n}\n.team-profile-position {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    text-transform: uppercase\n}\n.heroshot .team-profile-position {\n    display: inline-block\n}\n.team-profile-name+.team-profile-position,\n.social-sharing+.team-profile-position {\n    margin: 0 0 20px\n}\n.team-profile-jersey-number {\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 1\n}\n.team-profile-photo {\n    display: block;\n    margin: 0 0 20px\n}\n.main .team-profile-photo {\n    max-width: 200px\n}\n@media (min-width: 768px) and (max-width: 959px) {\n    .team-profile-photo {\n        float: right\n    }\n}\n@media (min-width: 960px) {\n    .team-profile-main {\n        margin-right: 20px\n    }\n}\n@media (min-width: 1200px) {\n    .team-profile-main {\n        -webkit-box-flex: 0;\n        -ms-flex: 0 0 auto;\n        flex: 0 0 auto;\n        width: 200px\n    }\n}\n.team-profile-vitals {\n    margin: 20px 0\n}\n.team-profile-vitals dt {\n    color: #6bb2e2\n}\n.team-profile-vitals dd {\n    color: gray;\n    margin: 0 0 1em;\n    padding: 0\n}\n@media (min-width: 1200px) {\n    .team-profile-bio {\n        margin-top: -1.4em;\n        width: 100%\n    }\n}\n.team-profile .social-sharing,\n.team-profile .social-sharing:first-child {\n    float: none;\n    text-align: center\n}\n.team-profile .social-sharing-item:first-child {\n    margin-left: 0\n}\n.table-player-stats thead .number {\n    width: 1px\n}\n.table-player-stats abbr {\n    border: 0\n}\n.main .page-content h2:not([class]) {\n    color: #102c52;\n    margin-bottom: .25em;\n    margin-top: 2em;\n    text-transform: uppercase\n}\n.main .page-content h2:not([class]):first-child {\n    margin-top: 0\n}\n.main .page-content h3 {\n    margin-bottom: .25em;\n    margin-top: 1.5em\n}\n.main .page-content h3:not([class]) {\n    color: #fdb525\n}\n.main .page-content h2+h3 {\n    margin-top: 0\n}\n.main .page-content h2+p,\n.main .page-content h3+p {\n    margin-top: 0\n}\n.events-list {\n    list-style: none;\n    margin: 0;\n    padding: 0\n}\nh1+.events-list {\n    margin-top: -10px\n}\n.events-list-item {\n    background: transparent;\n    margin: 0;\n    min-height: 112px;\n    padding: 10px 10px 10px 60px;\n    position: relative;\n    z-index: 1\n}\n.events-list-item-match {\n    min-height: 100px\n}\n@media (min-width: 360px) {\n    .events-list-item {\n        padding-right: 60px\n    }\n}\n@media (min-width: 768px) {\n    .events-list-item {\n        padding-left: 70px;\n        padding-right: 70px\n    }\n}\n.event-datetime {\n    display: block;\n    margin: 4px 0\n}\n.event-start-datetime {\n    color: #102c52;\n    display: block;\n    left: 0;\n    position: absolute;\n    text-align: center;\n    top: 0;\n    width: 50px\n}\n.events-list-item .event-start-datetime {\n    top: 10px\n}\n.event-start-month {\n    background: #fdb525;\n    display: block;\n    font-size: .55556rem;\n    font-weight: 400;\n    letter-spacing: .5px;\n    padding: 4px;\n    text-align: center;\n    text-transform: uppercase\n}\n.event-start-date {\n    background: #fff;\n    border: 1px solid #fdb525;\n    display: block;\n    font-size: 1.11111rem;\n    line-height: 1;\n    margin: -1px 0 0;\n    padding: 5px 10px\n}\n.event-start-day {\n    font-size: .55556rem;\n    letter-spacing: .5px\n}\n.event-name {\n    margin: 0\n}\n@media (max-width: 767px) {\n    .event-name {\n        font-size: 1.11111rem\n    }\n}\n.event-match-type {\n    color: #102c52;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    margin: 4px 0 0;\n    text-transform: uppercase\n}\n.event-location {\n    margin: 4px auto\n}\n.event-team {\n    min-height: 48px;\n    position: relative;\n    white-space: wrap;\n    z-index: 1\n}\n.event-team-logo {\n    display: inline-block;\n    height: 48px;\n    width: 48px;\n    vertical-align: middle\n}\n@media (max-width: 480px) {\n    .event-team-logo {\n        display: none\n    }\n}\n.event-score {\n    background-color: #6bb2e2;\n    border: 1px solid #102c52;\n    color: #fff;\n    display: block;\n    font-size: 1.11111rem;\n    line-height: 1;\n    margin: -1px 0 0;\n    padding: 5px 10px;\n    white-space: nowrap;\n    z-index: 1\n}\n.event-score-box {\n    display: inline-block;\n    text-align: center;\n    width: 50px;\n    z-index: 1\n}\n@media (min-width: 360px) {\n    .event-score-box {\n        position: absolute;\n        right: 0;\n        top: 0\n    }\n    .events-list-item .event-score-box {\n        top: 10px\n    }\n}\n.event-score-box-label {\n    background-color: #102c52;\n    color: #fff;\n    display: block;\n    font-size: .55556rem;\n    letter-spacing: .5px;\n    padding: 4px;\n    text-transform: uppercase\n}\n.event-score-outcome {\n    color: #102c52;\n    display: block\n}\n.event-pks {\n    font-size: 0.55556rem;\n    letter-spacing: .5px\n}\n.event-detail {\n    min-height: 220px;\n    padding-left: 70px;\n    padding-top: 20px;\n    position: relative;\n    z-index: 1\n}\n@media (min-width: 768px) {\n    .event-detail {\n        padding-left: 100px\n    }\n}\n@media (min-width: 768px) {\n    .event-detail-wrapper .livestream {\n        margin: 0 -20px\n    }\n}\n.event-detail .event-start-datetime {\n    left: 0;\n    top: 20px\n}\n.event-detail .event-name:first-child {\n    margin: 0\n}\n.event-detail .event-location {\n    font-style: inherit\n}\n.event-detail .event-team-logo {\n    vertical-align: middle\n}\n.event-detail .event-score-box {\n    left: 0;\n    top: 120px\n}\n.highlight {\n    background: #fff;\n    border-radius: 2px;\n    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);\n    margin: 8px 0 8px 4em;\n    padding: 16px;\n    position: relative;\n    z-index: 1\n}\n@media (max-width: 1023px) {\n    .highlight {\n        margin: 48px 0 8px 0\n    }\n}\n.highlight-clock-time {\n    left: 0;\n    margin: 0;\n    padding: 0 16px 0 0;\n    position: absolute;\n    text-align: right;\n    top: 0;\n    -webkit-transform: translateX(-100%);\n    transform: translateX(-100%);\n    width: 4em\n}\n@media (max-width: 1023px) {\n    .highlight-clock-time {\n        top: -40px;\n        -webkit-transform: translateX(0);\n        transform: translateX(0)\n    }\n}\n.highlight-embed {\n    margin: 0;\n    overflow: hidden\n}\n.highlight-embed-twitter {\n    margin-bottom: -10px;\n    margin-top: -10px\n}\n.highlight-embed .fb-post {\n    max-width: 100%;\n    overflow: auto\n}\n.highlight-photo {\n    margin: 0\n}\n.highlight-photo img {\n    display: block;\n    height: auto;\n    max-width: 100%;\n    min-width: 100%\n}\n.highlight-video {\n    margin: 0;\n    padding-top: 56.25%;\n    position: relative;\n    z-index: 1\n}\n.highlight-video iframe {\n    bottom: 0;\n    height: 100%;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    width: 100%;\n    z-index: 1\n}\n.highlight-text {\n    margin: 0\n}\n.highlight-text+figure {\n    margin-top: 16px\n}\n.highlights-list {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    margin-top: -20px\n}\n.change-form .highlights-list {\n    box-sizing: border-box;\n    font-size: 18px;\n    margin-top: 0\n}\n.change-form .highlights-list * {\n    box-sizing: border-box\n}\n.highlights-list .highlight {\n    min-height: 2em\n}\n.change-form .highlights-list .highlight {\n    font-size: inherit;\n    list-style-type: none\n}\n.highlights-list .highlight-clock-time {\n    top: 16px\n}\n@media (max-width: 1023px) {\n    .highlights-list .highlight-clock-time {\n        margin-top: -40px\n    }\n}\n@-webkit-keyframes highlight-blink {\n    from {\n        background: rgba(253, 181, 37, 0.1)\n    }\n    to {\n        background: rgba(253, 181, 37, 0.5)\n    }\n}\n@keyframes highlight-blink {\n    from {\n        background: rgba(253, 181, 37, 0.1)\n    }\n    to {\n        background: rgba(253, 181, 37, 0.5)\n    }\n}\n@media (max-width: 1023px) {\n    .event-match-highlights {\n        margin-left: -70px\n    }\n}\n.event-match-highlights-label:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.event-match-highlights .loader {\n    background: url(\"data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0iMTc5MiIgaGVpZ2h0PSIxNzkyIiB2aWV3Qm94PSIwIDAgMTc5MiAxNzkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzdHlsZT5ALXdlYmtpdC1rZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IEBrZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IC5mdXRib2wgeyAtd2Via2l0LWFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IGFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IC13ZWJraXQtYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgLXdlYmtpdC1hbmltYXRpb24tdGltaW5nLWZ1bmN0aW9uOiBsaW5lYXI7IGFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGxpbmVhcjsgLXdlYmtpdC1hbmltYXRpb24taXRlcmF0aW9uLWNvdW50OiBpbmZpbml0ZTsgYW5pbWF0aW9uLWl0ZXJhdGlvbi1jb3VudDogaW5maW5pdGU7IC13ZWJraXQtdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgfTwvc3R5bGU+PHBhdGggZmlsbD0iI2ZkYjUyNSIgY2xhc3M9ImZ1dGJvbCIgZD0iTTYwOSA4MTZsMjg3LTIwOCAyODcgMjA4LTEwOSAzMzZINzE5ek04OTYgMHExODIgMCAzNDggNzF0Mjg2IDE5MSAxOTEgMjg2IDcxIDM0OC03MSAzNDgtMTkxIDI4Ni0yODYgMTkxLTM0OCA3MS0zNDgtNzEtMjg2LTE5MS0xOTEtMjg2VDAgODk2dDcxLTM0OCAxOTEtMjg2VDU0OCA3MSA4OTYgMHptNjE5IDEzNTBxMTQ5LTIwMyAxNDktNDU0di0zbC0xMDIgODktMjQwLTIyNCA2My0zMjMgMTM0IDEycS0xNTAtMjA2LTM4OS0yODJsNTMgMTI0LTI4NyAxNTktMjg3LTE1OSA1My0xMjRxLTIzOSA3Ni0zODkgMjgybDEzNS0xMiA2MiAzMjMtMjQwIDIyNC0xMDItODl2M3EwIDI1MSAxNDkgNDU0bDMwLTEzMiAzMjYgNDAgMTM5IDI5OC0xMTYgNjlxMTE3IDM5IDI0MCAzOXQyNDAtMzlsLTExNi02OSAxMzktMjk4IDMyNi00MHoiLz48L3N2Zz4=\") no-repeat 50% 50%;\n    background-size: 32px 32px;\n    display: block;\n    float: right;\n    height: 32px;\n    opacity: 0;\n    -webkit-transition: .2s;\n    transition: .2s;\n    width: 32px\n}\n.event-match-highlights.fetching .loader {\n    opacity: 1\n}\n.event-match-highlights[data-api] .highlight {\n    -webkit-animation-direction: alternate-reverse;\n    animation-direction: alternate-reverse;\n    -webkit-animation-duration: .5s;\n    animation-duration: .5s;\n    -webkit-animation-fill-mode: none;\n    animation-fill-mode: none;\n    -webkit-animation-iteration-count: 5;\n    animation-iteration-count: 5;\n    -webkit-animation-name: highlight-blink;\n    animation-name: highlight-blink;\n    -webkit-animation-timing-function: linear;\n    animation-timing-function: linear\n}\n.fa-twitter {\n    color: #1da1f2\n}\n.fa-facebook,\n.fa-facebook-square {\n    color: #3a5795\n}\n.fa-vimeo {\n    color: #1ab7ea\n}\n.fa-flickr {\n    color: #0063dc\n}\n.map {\n    margin: 1em auto;\n    padding-top: 56.25%;\n    position: relative;\n    z-index: 1\n}\n.map:after {\n    clear: both;\n    content: '';\n    display: table\n}\n.map-image {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 1\n}\n.map-marker {\n    color: #e74c3c;\n    font-size: 2.66667rem;\n    left: 50%;\n    position: absolute;\n    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);\n    top: 50%;\n    -webkit-transform: translateX(-50%) translateY(-50%);\n    transform: translateX(-50%) translateY(-50%);\n    z-index: 2\n}\n.map-attribution {\n    font-size: .75em;\n    float: left;\n    margin: .5em 20px 0 0\n}\n.map-driving-estimate {\n    font-size: .75em;\n    margin: .5em 0 0;\n    text-align: right\n}\n.social-sharing {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    float: right;\n    margin: 0 0 10px\n}\n.heroshot+.social-sharing,\n.social-sharing:first-child {\n    margin-top: 20px\n}\n.social-sharing-item {\n    display: inline-block;\n    margin-left: 1em;\n    vertical-align: top\n}\n.social-sharing-item .fb-like {\n    top: -5px;\n    vertical-align: top\n}\n.reset-password {\n    min-height: 100vh\n}\n.reset-password>.wrapper {\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: center;\n    -ms-flex-pack: center;\n    justify-content: center;\n    min-height: 100vh\n}\n.reset-password .main {\n    margin: 0 auto;\n    max-width: 320px;\n    padding-bottom: 20px;\n    padding-top: 20px\n}\n.reset-password .help:first-child {\n    margin-top: 0;\n    text-align: center\n}\n.reset-password .form-buttons {\n    text-align: center\n}\n.login-actions {\n    margin-bottom: 0;\n    text-align: center\n}\nhtml {\n    background: #102c52;\n    background-size: 144px;\n    font-size: 18px;\n    overflow-x: hidden\n}\n@media (min-width: 768px) and (min-height: 700px) {\n    html {\n        padding-bottom: 76px\n    }\n}\nbody {\n    -webkit-: subpixel-antialiased;\n    font-weight: 300;\n    line-height: 1.4;\n    overflow-x: hidden\n}\n#HyphenatorToggleBox {\n    display: none !important\n}\na {\n    text-decoration: none;\n    -webkit-transition: .2s;\n    transition: .2s\n}\n.wrapper {\n    margin: 0 auto;\n    max-width: 1440px\n}\n@media (min-width: 768px) {\n    .wrapper {\n        -webkit-: stretch;\n        -ms-: stretch;\n        align-items: stretch;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-box-orient: horizontal;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -ms-flex-wrap: wrap;\n        flex-wrap: wrap;\n        -webkit-box-pack: start;\n        -ms-flex-pack: start;\n        justify-content: flex-start\n    }\n}\n.site-header {\n    background: #102c52;\n    color: #fff;\n    height: 68px;\n    padding: 0;\n    position: relative;\n    text-align: center;\n    width: 100%;\n    z-index: 100\n}\n@media (min-width: 768px) {\n    .site-header {\n        background-image: -webkit-linear-gradient(270deg, #102c52, #2375b8);\n        background-image: linear-gradient(180deg, #102c52, #2375b8);\n        -webkit-box-flex: 0;\n        -ms-flex: 0 0 auto;\n        flex: 0 0 auto;\n        height: auto;\n        padding-bottom: 160px;\n        width: 208px\n    }\n}\n.site-nav,\n.header-nav,\n.user-nav {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    margin-bottom: 20px;\n    text-align: left;\n    text-transform: uppercase\n}\n.site-nav .nav-item,\n.header-nav .nav-item,\n.user-nav .nav-item {\n    color: #fff;\n    display: block;\n    font-size: .88889rem;\n    padding: .5em 1em;\n    text-decoration: none\n}\n.site-nav .nav-item:hover,\n.site-nav .nav-item:active,\n.site-nav .nav-item:focus,\n.header-nav .nav-item:hover,\n.header-nav .nav-item:active,\n.header-nav .nav-item:focus,\n.user-nav .nav-item:hover,\n.user-nav .nav-item:active,\n.user-nav .nav-item:focus {\n    background-color: #6bb2e2;\n    color: #102c52\n}\n.site-nav .nav-item-active {\n    background-color: #fdb525;\n    color: #102c52\n}\n@media (min-width: 768px) {\n    .site-nav .nav-item-active {\n        background-color: transparent;\n        color: #fdb525\n    }\n}\n.header-nav .nav-item {\n    color: #fdb525\n}\n.header-nav .nav-item-active {\n    color: #fdb525;\n    font-weight: 600;\n    pointer-events: none\n}\n.header-nav .nav-item-active:hover,\n.header-nav .nav-item-active:active,\n.header-nav .nav-item-active:focus {\n    background: transparent;\n    color: #fdb525\n}\n.header-nav .fa {\n    float: right;\n    font-size: 80%;\n    height: 22px;\n    line-height: 22px\n}\n.btn-accent {\n    color: #102c52\n}\n.mobile-nav {\n    background: #102c52;\n    left: 0;\n    max-height: 0;\n    overflow: hidden;\n    position: absolute;\n    right: 0;\n    top: 68px;\n    -webkit-transition: .5s linear;\n    transition: .5s linear\n}\n.show-site-menu .mobile-nav,\n.show-site-nav .mobile-nav {\n    max-height: 1000px\n}\n@media (min-width: 768px) {\n    .mobile-nav {\n        background: transparent;\n        max-height: initial;\n        position: static\n    }\n    .show-site-nav .mobile-nav,\n    .show-site-menu .mobile-nav {\n        max-height: initial\n    }\n}\n.mobile-nav .aside-social {\n    margin-bottom: 20px\n}\n.mobile-nav .aside-social .fa {\n    color: #fff;\n    font-size: 24px;\n    margin: 0 6px\n}\n.mobile-nav .npsl-logo,\n.mobile-nav .wpsl-logo {\n    display: block;\n    margin: 20px 16px\n}\n@media (min-width: 768px) {\n    .mobile-nav .npsl-logo,\n    .mobile-nav .wpsl-logo {\n        bottom: 0;\n        left: 0;\n        position: absolute;\n        right: 0;\n        z-index: 1\n    }\n}\n.mobile-nav .npsl-logo img,\n.mobile-nav .wpsl-logo img {\n    display: block;\n    height: auto;\n    margin: 0 auto;\n    max-width: 100px;\n    width: 76px\n}\n.mobile-nav .wpsl-logo img {\n    width: auto;\n    max-width: 100%\n}\n.mobile-nav .form-inline {\n    margin: 40px 16px;\n    text-align: left\n}\n.mobile-nav .form-inline .form-fields {\n    display: block;\n    margin: 0 auto\n}\n.mobile-nav .form-inline .form-legend {\n    color: #fdb525;\n    display: block\n}\n.mobile-nav .form-inline .form-field,\n.mobile-nav .form-inline .form-buttons {\n    display: block;\n    margin-left: 0;\n    margin-right: 0\n}\n.mobile-nav .form-inline .form-buttons {\n    margin-bottom: 0\n}\n.mobile-nav .form-inline input[type=\"color\"],\n.mobile-nav .form-inline input[type=\"date\"],\n.mobile-nav .form-inline input[type=\"datetime\"],\n.mobile-nav .form-inline input[type=\"datetime-local\"],\n.mobile-nav .form-inline input[type=\"email\"],\n.mobile-nav .form-inline input[type=\"month\"],\n.mobile-nav .form-inline input[type=\"number\"],\n.mobile-nav .form-inline input[type=\"password\"],\n.mobile-nav .form-inline input[type=\"search\"],\n.mobile-nav .form-inline input[type=\"tel\"],\n.mobile-nav .form-inline input[type=\"text\"],\n.mobile-nav .form-inline input[type=\"time\"],\n.mobile-nav .form-inline input[type=\"url\"],\n.mobile-nav .form-inline input[type=\"week\"],\n.mobile-nav .form-inline input:not([type]),\n.mobile-nav .form-inline textarea {\n    width: 100%;\n    max-width: 100%\n}\n.mobile-nav .form-inline .btn {\n    min-width: 0;\n    max-width: 100%\n}\n@media (min-width: 768px) {\n    .mobile-nav .form-inline .btn {\n        min-width: 100%\n    }\n}\n.site-brand {\n    color: #fff;\n    display: inline-block;\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    padding: 10px;\n    text-align: center;\n    text-transform: uppercase\n}\n@media (min-width: 768px) {\n    .site-brand {\n        display: block;\n        padding: 40px 20px\n    }\n}\n.site-mark {\n    display: block;\n    height: 48px;\n    margin: 0 auto;\n    width: 48px\n}\n@media (min-width: 768px) {\n    .site-mark {\n        height: 128px;\n        width: 128px\n    }\n}\n.site-footer {\n    background: #232323;\n    border-top: 1px solid #b4b5b5;\n    color: #102c52;\n    padding: 0px;\n    width: 100%\n}\n@media (min-width: 768px) and (min-height: 700px) {\n    .site-footer {\n        border-top: 0;\n        padding: 0 312px\n    }\n}\n.site-footer .row-tablet {\n    -webkit-: center;\n    -ms-: center;\n    justify-content: space-between\n}\n.site-footer-sponsors {\n    background: #232323;\n    -webkit-: 1;\n    -ms-flex: 1 1 auto;\n    flex: 1 1 auto;\n    margin-left: 0px;\n    margin-right: 0px;\n    width: 100%\n}\n.site-footer-sponsors:after {\n    clear: both;\n    content: '';\n    display: table\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors {\n        -webkit-: center;\n        -ms-: center;\n        align-items: center;\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-: center;\n        -ms-: center;\n        justify-content: center\n    }\n}\n@media (min-width: 768px) and (min-height: 700px) {\n    .site-footer-sponsors {\n        bottom: 0;\n        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);\n        left: 0;\n        padding: 10px 0;\n        position: fixed;\n        right: 0;\n        z-index: 101\n    }\n}\n@media (min-height: 700px) and (min-width: 1440px) {\n    .site-footer-sponsors {\n        left: 50%;\n        right: auto;\n        -webkit-transform: translateX(-50%);\n        transform: translateX(-50%);\n        width: 1440px\n    }\n}\n.site-footer-sponsors-list {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    -webkit-: center;\n    -ms-: center;\n    align-items: center;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-: horizontal;\n    -webkit-: normal;\n    -ms-flex-direction: row;\n    flex-direction: row;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-: justify;\n    -ms-: justify;\n    justify-content: space-between\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors-list {\n        -ms-flex-wrap: nowrap;\n        flex-wrap: nowrap\n    }\n}\n.site-footer-sponsors-list-item {\n    margin: 0 auto 1em\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors-list-item {\n        -webkit-: 0;\n        -ms-flex: 0 1 auto;\n        flex: 0 1 auto;\n        margin: 0 10px\n    }\n}\n@media (min-width: 480px) and (max-width: 767px) {\n    .site-footer-sponsors-list-item {\n        width: calc(50% - 20px)\n    }\n}\n.site-footer-sponsors-list-item-link {\n    display: block\n}\n.site-footer-sponsors-list-item-logo {\n    display: block;\n    height: auto;\n    max-width: 100%;\n    -webkit-transition: .2s;\n    transition: .2s\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors-list-item-logo:hover {\n        -webkit-transform: scale(1.1);\n        transform: scale(1.1)\n    }\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors-list-item {\n        width: 100px\n    }\n}\n.site-footer-sponsors-view-all {\n    margin: 0;\n    text-align: center\n}\n@media (min-width: 768px) {\n    .site-footer-sponsors-view-all {\n        margin-top: 0\n    }\n}\n.site-footer-license {\n    background: #f0f1f1;\n    color: #102c52;\n    display: block;\n    margin: 0 auto;\n    max-width: 1440px;\n    padding: 20px;\n    text-align: center;\n    width: 100%\n}\n.site-footer+.site-footer-license {\n    margin-top: -20px\n}\n@media (min-width: 768px) {\n    .site-footer-license {\n        margin-left: 208px\n    }\n}\n@media (min-width: 768px) and (min-height: 700px) {\n    .site-footer-license {\n        margin-top: -60px\n    }\n    .site-footer+.site-footer-license {\n        margin-top: -60px\n    }\n}\n@media (min-width: 960px) {\n    .site-footer-license {\n        margin-right: 208px\n    }\n}\n.btn {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    text-transform: uppercase\n}\n.main {\n    background: #f0f1f1;\n    padding: 0 20px\n}\n@media (max-width: 480px) {\n    .main {\n        padding-top: 1px\n    }\n}\n@media (min-width: 768px) {\n    .main {\n        min-height: calc(100vh - 76px)\n    }\n}\n@media (min-width: 768px) and (min-height: 700px) {\n    .main {\n        padding-bottom: 60px\n    }\n}\n.login .main {\n    background: transparent;\n    overflow: hidden;\n    position: relative\n}\n.login .main::before {\n    background-image: -webkit-linear-gradient(315deg, #022a59, #2e4e75);\n    background-image: linear-gradient(135deg, #022a59, #2e4e75);\n    background-size: 102px 102px;\n    content: '';\n    display: block;\n    height: 200%;\n    left: -50%;\n    position: absolute;\n    top: -50%;\n    -webkit-transform: rotate(26deg);\n    transform: rotate(26deg);\n    width: 200%;\n    z-index: -1\n}\n@media (min-width: 768px) {\n    .main {\n        -webkit-: 1;\n        -ms-flex: 1 1 auto;\n        flex: 1 1 auto;\n        width: 1%\n    }\n}\n.main h1,\n.main h2,\n.main h3 {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif;\n    font-weight: 400\n}\n.main h1:not([class]),\n.main h2:not([class]),\n.main h3:not([class]) {\n    color: #102c52\n}\n.main h1:first-child,\n.main .social-sharing:first-child+h1 {\n    margin-bottom: 10px;\n    margin-top: 7px\n}\n.main a:not(.btn) {\n    color: #6bb2e2\n}\n.main a:not(.btn):hover,\n.main a:not(.btn):active,\n.main a:not(.btn):focus {\n    color: #409cda\n}\n.main .alert {\n    background-color: #fdb525;\n    color: #102c52;\n    margin: 0 -20px\n}\n.main .heroshot {\n    background: #f0f1f1 url(\"data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0iMTc5MiIgaGVpZ2h0PSIxNzkyIiB2aWV3Qm94PSIwIDAgMTc5MiAxNzkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzdHlsZT5ALXdlYmtpdC1rZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IEBrZXlmcmFtZXMgcm90YXRlIHsgZnJvbSB7IC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGVaKDBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMGRlZyk7IH0gdG8geyAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlWigzNjBkZWcpOyB0cmFuc2Zvcm06IHJvdGF0ZVooMzYwZGVnKTsgfSB9IC5mdXRib2wgeyAtd2Via2l0LWFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IGFuaW1hdGlvbi1uYW1lOiByb3RhdGU7IC13ZWJraXQtYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgYW5pbWF0aW9uLWR1cmF0aW9uOiAyczsgLXdlYmtpdC1hbmltYXRpb24tdGltaW5nLWZ1bmN0aW9uOiBsaW5lYXI7IGFuaW1hdGlvbi10aW1pbmctZnVuY3Rpb246IGxpbmVhcjsgLXdlYmtpdC1hbmltYXRpb24taXRlcmF0aW9uLWNvdW50OiBpbmZpbml0ZTsgYW5pbWF0aW9uLWl0ZXJhdGlvbi1jb3VudDogaW5maW5pdGU7IC13ZWJraXQtdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgdHJhbnNmb3JtLW9yaWdpbjogNTAlIDUwJTsgfTwvc3R5bGU+PHBhdGggZmlsbD0iI2ZkYjUyNSIgY2xhc3M9ImZ1dGJvbCIgZD0iTTYwOSA4MTZsMjg3LTIwOCAyODcgMjA4LTEwOSAzMzZINzE5ek04OTYgMHExODIgMCAzNDggNzF0Mjg2IDE5MSAxOTEgMjg2IDcxIDM0OC03MSAzNDgtMTkxIDI4Ni0yODYgMTkxLTM0OCA3MS0zNDgtNzEtMjg2LTE5MS0xOTEtMjg2VDAgODk2dDcxLTM0OCAxOTEtMjg2VDU0OCA3MSA4OTYgMHptNjE5IDEzNTBxMTQ5LTIwMyAxNDktNDU0di0zbC0xMDIgODktMjQwLTIyNCA2My0zMjMgMTM0IDEycS0xNTAtMjA2LTM4OS0yODJsNTMgMTI0LTI4NyAxNTktMjg3LTE1OSA1My0xMjRxLTIzOSA3Ni0zODkgMjgybDEzNS0xMiA2MiAzMjMtMjQwIDIyNC0xMDItODl2M3EwIDI1MSAxNDkgNDU0bDMwLTEzMiAzMjYgNDAgMTM5IDI5OC0xMTYgNjlxMTE3IDM5IDI0MCAzOXQyNDAtMzlsLTExNi02OSAxMzktMjk4IDMyNi00MHoiLz48L3N2Zz4=\") no-repeat 50% 50%;\n    background-size: 64px 64px;\n    margin-bottom: 0;\n    margin-top: 0;\n    overflow: hidden;\n    padding-top: 56.25%;\n    position: relative;\n    z-index: 1\n}\n.loaded .main .heroshot {\n    background: transparent\n}\n.main .heroshot-image {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 1\n}\n.main .heroshot-caption {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif\n}\n@media (min-width: 768px) {\n    .main .heroshot-headline {\n        font-size: 1.5rem\n    }\n}\n.main .heroshot-description {\n    margin-top: 0\n}\n.main .heroshot-caption-credit-only {\n    background: #fff;\n    color: #999;\n    font-size: .77778rem;\n    font-style: italic\n}\n.heroshot-credit,\n.secondary-heroshot-credit {\n    background: rgba(255, 255, 255, 0.75);\n    color: #333;\n    font-size: .875rem;\n    left: 0;\n    padding: 2px 6px;\n    position: absolute;\n    top: 0;\n    z-index: 2\n}\n@media (min-width: 768px) {\n    .heroshot-credit,\n    .secondary-heroshot-credit {\n        bottom: 0;\n        top: auto;\n        max-width: 180px\n    }\n}\n.no-touchevents .heroshot-caption,\n.no-touchevents .secondary-heroshot-caption {\n    -webkit-transform: translateY(100%);\n    transform: translateY(100%);\n    -webkit-transition: .2s;\n    transition: .2s\n}\n.no-touchevents .heroshot:hover .heroshot-caption,\n.no-touchevents .heroshot:active .heroshot-caption,\n.no-touchevents .heroshot:focus .heroshot-caption,\n.no-touchevents .secondary-heroshot:hover .heroshot-caption,\n.no-touchevents .secondary-heroshot:active .heroshot-caption,\n.no-touchevents .secondary-heroshot:focus .heroshot-caption {\n    -webkit-transform: translateY(0);\n    transform: translateY(0)\n}\n.secondary-heroshots {\n    -webkit-box-align: stretch;\n    -ms-flex-align: stretch;\n    align-items: stretch;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: row;\n    flex-direction: row;\n    -ms-flex-wrap: nowrap;\n    flex-wrap: nowrap;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    margin: 5px -25px 0\n}\n@media (max-width: 767px) {\n    .heroshot-caption,\n    .secondary-heroshot-caption {\n        background: #102c52;\n        font-weight: 400;\n        padding: 10px;\n        position: static\n    }\n    .no-touchevents .heroshot-caption,\n    .no-touchevents .secondary-heroshot-caption {\n        -webkit-transform: translateY(0);\n        transform: translateY(0)\n    }\n}\n@media (max-width: 767px) {\n    .main .heroshot {\n        padding-top: 0\n    }\n    .main .heroshot-image {\n        position: static\n    }\n}\n.secondary-heroshot {\n    margin: 5px;\n    overflow: hidden;\n    position: relative;\n    z-index: 1\n}\n.secondary-heroshot-image {\n    display: block\n}\n@media (min-width: 768px) {\n    .secondary-heroshot-credit {\n        -webkit-transition: .2s;\n        transition: .2s\n    }\n    .secondary-heroshot:hover .secondary-heroshot-credit {\n        -webkit-transform: translateY(100%);\n        transform: translateY(100%)\n    }\n}\n.secondary-heroshot-caption {\n    font-family: \"DIN\", \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif\n}\n@media (min-width: 768px) {\n    .main .secondary-heroshot-caption {\n        left: auto;\n        max-width: 100%;\n        width: 100%\n    }\n}\n.secondary-heroshot-headline {\n    font-size: .875rem;\n    font-weight: 400;\n    margin: 0 auto\n}\n.secondary-heroshot-headline+.heroshot-description {\n    margin-top: 1em\n}\n@media (min-width: 768px) {\n    .secondary-heroshot-headline {\n        font-size: 1rem\n    }\n}\n.secondary-heroshot-description {\n    font-size: .77778rem;\n    margin: 0 auto\n}\n@media (min-width: 768px) {\n    .secondary-heroshot-description {\n        font-size: .88889rem\n    }\n}\n.sidebar {\n    background: transparent;\n    margin: 0;\n    padding-left: 0;\n    padding-right: 0\n}\n@media (min-width: 960px) {\n    .sidebar {\n        margin-left: 40px;\n        margin-right: 0;\n        max-width: 282px;\n        width: 35%\n    }\n}\n@media (min-width: 1280px) {\n    .sidebar {\n        width: 282px\n    }\n}\n.sidebar .aside {\n    background: transparent;\n    margin-bottom: 20px;\n    padding: 0\n}\n.sidebar .aside-label {\n    color: #102c52\n}\n.sidebar .aside-tweets .aside-label {\n    display: none\n}\n.sidebar .aside-league-standings thead {\n    text-transform: uppercase\n}\n.sidebar .aside-league-standings tbody tr:nth-child(odd),\n.sidebar .aside-league-standings tbody tr:nth-child(even) {\n    background: #d6d8d8\n}\n.sidebar .aside-league-standings tbody th,\n.sidebar .aside-league-standings tbody td {\n    border: 1px solid #fff\n}\n.sidebar .aside-league-standings tbody th:first-child,\n.sidebar .aside-league-standings tbody td:first-child {\n    border-left: 0\n}\n.sidebar .aside-league-standings tbody th:last-child,\n.sidebar .aside-league-standings tbody td:last-child {\n    border-right: 0\n}\n.sidebar .aside-league-standings tbody tr:first-child th,\n.sidebar .aside-league-standings tbody tr:first-child td {\n    border-top: 0\n}\n.sidebar .aside-league-standings tbody tr:last-child th,\n.sidebar .aside-league-standings tbody tr:last-child td {\n    border-bottom: 0\n}\n.sidebar .aside-league-standings .table td {\n    padding: .5em\n}\n.sidebar .aside-league-standings .table td:last-child {\n    padding-right: .5em\n}\n.sidebar .aside-league-standings .table th:first-child {\n    padding-left: .5em\n}\n.form-help {\n    font-family: \"Helvetica Neue\", \"Helvetica\", \"DejaVu Sans\", \"Bitstream Vera Sans\", Verdana, Arial, sans-serif\n}\n.reset-password {\n    position: relative\n}\n.reset-password::before {\n    background-image: -webkit-linear-gradient(315deg, #022a59, #2e4e75);\n    background-image: linear-gradient(135deg, #022a59, #2e4e75);\n    background-size: 102px 102px;\n    content: '';\n    display: block;\n    height: 200%;\n    left: -50%;\n    position: absolute;\n    top: -50%;\n    -webkit-transform: rotate(26deg);\n    transform: rotate(26deg);\n    width: 200%;\n    z-index: -1\n}\n.reset-password .main {\n    padding-top: 0\n}\n.reset-password .main::before {\n    background: #102c52 url(\"../img/chattanoogafccom/mark.20bf37f608a1.svg\") no-repeat center center;\n    background-size: 64px 64px;\n    content: '';\n    display: block;\n    height: 84px;\n    margin: 0 -20px 20px\n}\n.reset-password .main .alert {\n    margin: 20px -20px\n}\n.reset-password .main .alert:only-child {\n    background: transparent;\n    margin: 0;\n    padding: 0\n}\n.reset-password .main .alert:first-child:not(:only-child) {\n    margin-top: -20px\n}\n.post-feed .post-title {\n    margin-top: -.25em\n}\n.post-feed .post-link-card {\n    background: transparent;\n    border: 0\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-js"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-jt",
+          "_params": {
+            "bgColor": "#232323",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "",
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"squad.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Teams</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"squad.html\" data-toggle=\"dropdown-submenu\">Men's</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"squad.html\">First Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"u21squad.html\">U-21 Academy</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"womenssquad.html\">Women's</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"schedule.html\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\">Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2017trials.html\">Trials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"News.html\">News &amp; Updates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
