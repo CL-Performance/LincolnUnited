@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "m.schedule.html",
+    "currentPage": "schedule.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 811,
+    "uniqCompNum": 816,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/transparent-logo-gold-outline-with-effects-128x147-1.png",
     "noImageResize": "",
@@ -99,7 +99,7 @@
           "_anchor": "ext_menu-d",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -622,7 +622,7 @@
           "_anchor": "ext_menu-z",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -697,24 +697,43 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            "H3": {
-              "color": "#b8312f"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-l",
+          "_anchor": "header3-mj",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#232323",
-            "showMeta": true
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323"
           },
           "title": "2017 Schedule",
-          "meta": ""
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(35, 35, 35); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 style=\"color:#b8312f; text-align: center;\" class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"294\">2017 Schedule</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"295\"></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customTemplate": true,
+          "_anchor": "header3-mn"
         },
         {
           "_tags": [
@@ -1079,10 +1098,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1114,7 +1133,7 @@
           "_anchor": "ext_menu-d",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1626,7 +1645,7 @@
           "_anchor": "ext_menu-s",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1831,7 +1850,7 @@
           "_anchor": "ext_menu-z",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2094,7 +2113,7 @@
           "_anchor": "ext_menu-1e",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2351,7 +2370,7 @@
           "_anchor": "ext_menu-17",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2627,7 +2646,7 @@
           "_anchor": "ext_menu-24",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2794,7 +2813,7 @@
           "_anchor": "ext_menu-2m",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -2904,7 +2923,7 @@
           "_anchor": "ext_menu-af",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -3352,7 +3371,7 @@
           "_anchor": "ext_menu-3u",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -3423,7 +3442,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180054.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3534,7 +3553,7 @@
           "_anchor": "ext_menu-4d",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -3747,7 +3766,7 @@
           "_anchor": "ext_menu-5n",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -3973,7 +3992,7 @@
           "_anchor": "ext_menu-5v",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -4275,7 +4294,7 @@
           "_anchor": "ext_menu-6d",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -4519,7 +4538,7 @@
           "_anchor": "ext_menu-6n",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -4629,7 +4648,7 @@
           "_anchor": "ext_menu-77",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -4793,7 +4812,7 @@
           "_anchor": "ext_menu-7o",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -4862,7 +4881,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65937.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65955.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4878,7 +4897,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66156.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4894,7 +4913,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71539.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71557.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4910,7 +4929,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x71340.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x71358.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4926,7 +4945,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66141.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66159.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4987,7 +5006,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33742.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33760.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5003,7 +5022,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33743.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33761.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5019,7 +5038,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33744.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33762.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5051,7 +5070,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60045.png",
+              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60063.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5067,7 +5086,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60046.png",
+              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60064.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5144,7 +5163,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60047.png",
+              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60065.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5160,7 +5179,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60048.png",
+              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60066.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5237,7 +5256,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-1-600x22249.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-1-600x22267.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5253,7 +5272,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/racine-force-logo-600x59350.png",
+              "src": "@PROJECT_PATH@/assets/images/racine-force-logo-600x59368.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5269,7 +5288,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/south-bend-logo-600x60751.png",
+              "src": "@PROJECT_PATH@/assets/images/south-bend-logo-600x60769.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5285,7 +5304,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lsc-2-600x59752.png",
+              "src": "@PROJECT_PATH@/assets/images/lsc-2-600x59770.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5301,7 +5320,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/indy-saints-logo-600x60053.png",
+              "src": "@PROJECT_PATH@/assets/images/indy-saints-logo-600x60071.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5533,7 +5552,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180054.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5671,7 +5690,7 @@
           "_anchor": "ext_menu-8s",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -5885,7 +5904,7 @@
           "_anchor": "ext_menu-8x",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -6108,7 +6127,7 @@
           "_anchor": "ext_menu-9m",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -6319,7 +6338,7 @@
           "_anchor": "ext_menu-9t",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -6429,7 +6448,7 @@
           "_anchor": "ext_menu-3m",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -6633,7 +6652,7 @@
           "_anchor": "ext_menu-a7",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -6837,7 +6856,7 @@
           "_anchor": "ext_menu-af",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -7233,7 +7252,7 @@
           "_anchor": "ext_menu-b2",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -7304,7 +7323,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180054.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7415,7 +7434,7 @@
           "_anchor": "ext_menu-b9",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -7525,7 +7544,7 @@
           "_anchor": "ext_menu-bb",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -7782,7 +7801,7 @@
           "_anchor": "ext_menu-c2",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -8287,7 +8306,7 @@
           "_anchor": "ext_menu-cl",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -8619,7 +8638,7 @@
           "_anchor": "ext_menu-dc",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -8969,7 +8988,7 @@
           "_anchor": "ext_menu-1p",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -9079,7 +9098,7 @@
           "_anchor": "ext_menu-il",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -9283,7 +9302,7 @@
           "_anchor": "ext_menu-c2",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -9757,7 +9776,7 @@
           "_anchor": "ext_menu-dy",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -10046,10 +10065,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -10074,14 +10093,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#b8312f!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-mg",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -10153,7 +10172,7 @@
           },
           "title": "2017 Schedule",
           "meta": "",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(35, 35, 35); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 style=\"color:#b8312f; text-align: center;\" class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"310\">2017 Schedule</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"311\"></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(35, 35, 35); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 style=\"color:#b8312f; text-align: center;\" class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"294\">2017 Schedule</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"295\"></small>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
@@ -10701,10 +10720,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -10729,14 +10748,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#b8312f!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-mg",
           "_params": {
             "bgColor": "#232323",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
