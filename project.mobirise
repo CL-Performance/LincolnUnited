@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "matchday001.html",
+    "currentPage": "index.html",
     "name": "Lincoln United",
     "theme": {
       "name": "mobirise3",
@@ -218,6 +218,20 @@
             "slides": [
               {
                 "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Matchday-1 &nbsp;Recap",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Lincoln United picked up three points on Sunday in there</span><br><span style=\"font-style: normal;\">first match of league competition against the Indy Saints</span><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"matchday001.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
+              },
+              {
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/picture-background-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -230,20 +244,6 @@
                 "text": "Lincoln United will be offering hands on internship  <br>opportunities for the 2017 summer season<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"internships.html\" data-toolbar=\"-mbrBtnMove\">Apply Today</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/r1hda138lnboep84i6kmx977i0tehl-2000x1122.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Open Trial Dates Released",
-                "showText": true,
-                "text": "<span style=\"font-style: normal;\">Lincoln United will host three open trials for the upcoming</span><br><span style=\"font-style: normal;\">season on April 8/9th, April 29/30th and May 16/17th</span><br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"m.2017trial.html\" data-toolbar=\"-mbrBtnMove\">See Full Article</a> "
               },
               {
                 "active": false,
@@ -3442,7 +3442,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180018.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4881,7 +4881,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x6591.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-web-site-600x65919.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4897,7 +4897,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x6612.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-web-site-600x66120.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4913,7 +4913,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x7153.jpg",
+              "src": "@PROJECT_PATH@/assets/images/berk-background-logo-600x71521.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4929,7 +4929,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/law-background-600x7134.jpg",
+              "src": "@PROJECT_PATH@/assets/images/law-background-600x71322.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4945,7 +4945,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-website-600x6615.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ali-website-600x66123.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5006,7 +5006,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/picture-background-600x3376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture-background-600x33724.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5022,7 +5022,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x3377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/csl-league-status-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5038,7 +5038,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x3378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/signings-with-shadings-600x33726.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5070,7 +5070,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x6009.png",
+              "src": "@PROJECT_PATH@/assets/images/csl-usa-600x60027.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5086,7 +5086,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60010.png",
+              "src": "@PROJECT_PATH@/assets/images/1x1-transparent-600x60028.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5163,7 +5163,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60011.png",
+              "src": "@PROJECT_PATH@/assets/images/transparent-1x1-global-scarves-600x60029.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5179,7 +5179,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60012.png",
+              "src": "@PROJECT_PATH@/assets/images/us-soccer-600x60030.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5256,7 +5256,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-1-600x22213.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jifqal31-banner-1-600x22231.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5272,7 +5272,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/racine-force-logo-600x59314.png",
+              "src": "@PROJECT_PATH@/assets/images/racine-force-logo-600x59332.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5288,7 +5288,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/south-bend-logo-600x60715.png",
+              "src": "@PROJECT_PATH@/assets/images/south-bend-logo-600x60733.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5304,7 +5304,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lsc-2-600x59716.png",
+              "src": "@PROJECT_PATH@/assets/images/lsc-2-600x59734.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5320,7 +5320,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/indy-saints-logo-600x60017.png",
+              "src": "@PROJECT_PATH@/assets/images/indy-saints-logo-600x60035.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5552,7 +5552,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180018.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7323,7 +7323,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x18000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-copy-2000x180018.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
